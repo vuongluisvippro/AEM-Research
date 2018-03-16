@@ -1,5 +1,5 @@
 # What is AEM?
-> **Level 1: AEM stands for Adode Experience Manager
+> **Level 1**: AEM stands for Adode Experience Manager
 >> 
 
 
