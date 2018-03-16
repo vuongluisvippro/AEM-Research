@@ -6,5 +6,9 @@
 - is a set of specifications that define a dynamic component system for Java. These specifications enable a development model where applications are (dynamically) composed of many different (reusable) components. 
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/1.png)
 
+- **Modules** The fundamental concept that enables such a system is modularity.
+- **Services** 
+
+**How To Get Started With OSGi?**
 
 
