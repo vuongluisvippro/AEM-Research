@@ -58,10 +58,49 @@ When prompted, specify the following information:
 >>> - content - content under /content
 
 > **Notice attach JDK 1.8 to fix error "Setup SDK"
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq5.png)
 
 > **Explore some avaiblible files in folder including**
 >> - TestHelloWorldModel.java
 >>> - is used to perform JUNIT tests
->> - LoggingFilter
 
+>> - LoggingFilter.java
+>>> - performs a simple servlet filter operation that logs incoming requests.
+>>> - using the @SlingFilter annotation that supports filter processing by applying filter chains requests before dispatching to the servlet for processing. For more information: https://sling.apache.org/documentation/the-sling-engine/filters.html
+
+>> - SimpleResourceListener.java
+>>> - Is a service to demonstrate how changes in the resource tree can be listened for
+>>> - It registers an event handler service and uses these annotations
+>>>> - @Component – defines the class as a component
+>>>> - @Service - defines the service interface that is provided by the component
+>>>> - For more information: http://felix.apache.org/documentation/subprojects/apache-felix-maven-scr-plugin/scr-annotations.html
+
+>> - HelloWorldModel.java
+>>> - Using Sling Model annotations such as @Model. For more information: https://sling.apache.org/documentation/bundles/models.html
+
+>> - SimpleScheduledTask.java
+>>> - get executed regularly
+>>> - It also demonstrates how property values can be set. For more information: https://sling.apache.org/documentation/bundles/scheduler-service-commons-scheduler.html
+
+>> - SimpleServlet
+>>> - Represents a simple AEM servlet created using Apache Sling APIs.
+>>> - Using resoure type binding to invoke the servlet
+
+> **Modify the Maven POM file**
+>> - Open file porn.xml in folder project.
+>> - Adjust some information about project
+
+> **Build the OSGi bundle using Maven**
+>> - To build the OSGi bundle by using Maven, perform these steps:
+>>> - Open the command prompt and go to the C:\AdobeCQ\echo62 folder.
+>>> - Run the following maven command: mvn -PautoInstallPackage install.
+>>> - The OSGi component can be found in the following folder: C:\AdobeCQ\echo62\core\target. The file name of the OSGi component is echo62.core-1.0-SNAPSHOT.jar.
+
+> **Viewing the running OSGi bundle**
+>> - Using this website to display: http://localhost:4502/system/console/bundles
+>> - Notice: View your OSGi bundle by performing these steps:
+>>> - Login to Adobe CQ’s Apache Felix Web Console at http://server:port/system/console/bundles (default admin user = admin with password= admin).
+>>> - Click the Bundles tab, sort the bundle list by Id, and note the Id of the last bundle.
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq5.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq6.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq7.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq8.png)
