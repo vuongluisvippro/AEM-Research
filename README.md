@@ -136,14 +136,12 @@ When prompted, specify the following information:
 
 >> - Run command **mvn -PautoInstallPackage install**
 
-
-
 >> - Adjust some information about project
 
 > **Build the OSGi bundle using Maven**
 >> - To build the OSGi bundle by using Maven, perform these steps:
 >>> - Open the command prompt and go to the C:\AdobeCQ\echo62 folder.
->>> - Run the following maven command: mvn -PautoInstallPackage install.
+>>> - Run the following maven command: **mvn -PautoInstallPackage install**
 >>> - The OSGi component can be found in the following folder: C:\AdobeCQ\echo62\core\target. The file name of the OSGi component is echo62.core-1.0-SNAPSHOT.jar.
 
 > **Viewing the running OSGi bundle**
