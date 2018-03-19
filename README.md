@@ -125,6 +125,19 @@ When prompted, specify the following information:
         
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq16.png)
 
+>>> - Fix bugs involves with dependency in Java
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq17.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq18.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq19.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq20.png)
+
+>> - Observe error involves with Server when building successfully
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq21.png)
+
+>> - Run command **mvn -PautoInstallPackage install**
+
+
+
 >> - Adjust some information about project
 
 > **Build the OSGi bundle using Maven**
