@@ -30,6 +30,21 @@
 https://github.com/vuongluisvippro/AEM-Research/blob/master/settings.xml
 
 > **Running it:** 
->> 
+>> - mvn archetype:generate -DarchetypeGroupId=com.adobe.granite.archetypes -DarchetypeArtifactId=aem-project-archetype -DarchetypeVersion=10 -DarchetypeRepository=https://repo.adobe.com/nexus/content/groups/public/
+>> - Fill in 
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq3.png)
+>> - You can get more information below
+When prompted, specify the following information:  
+- groupId - AEM62App 
+- artifactId - echo62
+- version - 1.0-SNAPSHOT
+- package - com.aem.community
+- appsFolderName - AEM62App  
+- artifactName - AEM62App 
+- componentGroupName - AEM62
+- contentFolderName - AEM62App 
+- cssId - AEM62CSS
+- packageGroup -AEM62App 
+- siteName - AEM62App 
 
 
