@@ -107,9 +107,23 @@ When prompted, specify the following information:
                   <version>1.0</version>
                   <scope>provided</scope>
               </dependency>
-              
+
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq15.png)
 >>> - Update pom.xml[INSIDE] core:
 
+        <!-- OSGi Dependencies -->
+        <dependency>
+            <groupId>com.adobe.aem</groupId>
+            <artifactId>uber-jar</artifactId>
+            <classifier>obfuscated-apis</classifier>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.geronimo.specs</groupId>
+            <artifactId>geronimo-atinject_1.0_spec</artifactId>
+        </dependency>
+        
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq16.png)
 
 >> - Adjust some information about project
 
