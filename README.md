@@ -87,6 +87,30 @@ When prompted, specify the following information:
 
 > **Modify the Maven POM file**
 >> - Open file porn.xml in folder project.
+>> - Notice please, we have two pom.xml here
+>>> - Update pom.xml[OUTSIDE]: 
+
+              <dependency>
+                  <groupId>com.adobe.aem</groupId>
+                  <artifactId>uber-jar</artifactId>
+                  <version>6.2.0</version>
+                  <!-- for AEM6.1 use this version     : <version>6.1.0</version> -->
+                  <!-- for AEM6.1 SP1 use this version : <version>6.1.0-SP1-B0001</version> -->
+                  <!-- for AEM6.1 SP2 use this version : <version>6.1.0-SP2</version> -->
+                  <!-- for AEM6.2 use this version     : <version>6.2.0</version> -->
+                  <classifier>obfuscated-apis</classifier>
+                  <scope>provided</scope>
+              </dependency>
+              <dependency>
+                  <groupId>org.apache.geronimo.specs</groupId>
+                  <artifactId>geronimo-atinject_1.0_spec</artifactId>
+                  <version>1.0</version>
+                  <scope>provided</scope>
+              </dependency>
+              
+>>> - Update pom.xml[INSIDE] core:
+
+
 >> - Adjust some information about project
 
 > **Build the OSGi bundle using Maven**
@@ -125,6 +149,35 @@ When prompted, specify the following information:
 >>> - C - configuration information for the OSGi service. 
 >>> - D - default i18n files 
 >>> - E - defines two templates: page content and page home. 
+
+> **AEM62App default components**
+>> - The following default components are created under components/content: 
+>>> - helloworld - a basic component that displays text
+>>> - image - a basic image component
+>>> - text - a basic text component
+>>> - textimage - a basic textimage component
+>>> - title - a basic title component
+
+> **helloworld component**
+>> - The helloworld component is a basic HTL component that displays text. Notice the following code. 
+
+    <pre data-sly-use.hello="com.adobecq.community.core.models.HelloWorldModel">
+    HelloWorldModel says:
+    ${hello.message}
+
+>> - The first thing to notice about this code is:
+
+    <pre data-sly-use.hello="com.adobecq.community.core.models.HelloWorldModel">
+
+>> - In this example, data-sly-use.hello references the Java class named HelloWorldModel. (This class is explained earlier in this article).   The HelloWorldModel uses Sling Models. This line of code:
+${hello.message}
+>> - returns the value of the  getMessage method in the HelloWorldModel class. This value is displayed by the helloworld component. 
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq12.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq13.png)
+
+**Image component**
+>> - The image component is a basic HTL component that displays an image, as shown in this illustration. 
+>> - Spending POM
 
 ## Trick
 - Dummy data: https://www.npmjs.com/package/json-server
