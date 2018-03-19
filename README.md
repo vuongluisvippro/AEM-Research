@@ -216,6 +216,21 @@ ${hello.message}
 
 ## We need to find solution to sync between IDE and CRX website browser
 SOLUTION 1: https://helpx.adobe.com/experience-manager/using/creating-aem-project-using-intellij.html
+EXPAND 1: https://helpx.adobe.com/experience-manager/6-2/sites/developing/user-guide.html
+
+> **AEM62App structure components**
+>> - Dialog: http://localhost:4502/crx/de/index.jsp#/apps/AEM62App/components/content/helloworld/dialog
+>> - Adjust information: http://localhost:4502/apps/AEM62App/components/content/helloworld/dialog.html
+
+> **Structure Of Page**
+>> - Under /apps/AEM62App/components/structure, there are additional components. Notice the page component, as shown here. 
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq27.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq28.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq29.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq30.png)
+
+>> - The page component is a HTL component that references the other files (under the partials folder) by using the sly data-sly-include statement. 
+
 
 ## Trick
 - Dummy data: https://www.npmjs.com/package/json-server
