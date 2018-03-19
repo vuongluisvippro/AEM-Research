@@ -26,6 +26,8 @@
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq1.png)
 >> - Find hidden folder (.m2) from local computer and paster file settings.xml [DONE]
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq2.png)
+>> - Configure settings.xml like this: 
+https://github.com/vuongluisvippro/AEM-Research/blob/master/settings.xml
 
 > **Running it:** 
 >> 
