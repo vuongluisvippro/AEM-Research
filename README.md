@@ -14,12 +14,12 @@
 # Let's get started with new project
 
 > Install Maven 3.2.1 on Ubuntu by command line:
->> **sudo apt-get remove maven2**
->> **sudo add-apt-repository "deb http://ppa.launchpad.net/natecarlson/maven3/ubuntu precise main"**
->> **sudo apt-get update**
->> **sudo apt-get install maven3**
->> **sudo ln -s /usr/share/maven3/bin/mvn /usr/bin/mvn**
->> **sudo apt-get update**
+>> - **sudo apt-get remove maven2**
+>> - **sudo add-apt-repository "deb http://ppa.launchpad.net/natecarlson/maven3/ubuntu precise main"**
+>> - **sudo apt-get update**
+>> - **sudo apt-get install maven3**
+>> - **sudo ln -s /usr/share/maven3/bin/mvn /usr/bin/mvn**
+>> - **sudo apt-get update**
 
 > Running it: 
 >> 
