@@ -256,5 +256,13 @@ For more information: https://helpx.adobe.com/experience-manager/using/movie.htm
 ## -> LEVEL1 -> htl_headline to ptractice with link
 For more information: https://helpx.adobe.com/experience-manager/using/aem_headline.html
 
+> **Running the default web page**
+>> - You can view the default web page by using the following URL: 
+>> - http://localhost:4502/content/AEM62App/en.html
+>> - Notice that this page displays the HelloWorld component. 
+
+> **See also**
+>> - Commnunities: https://helpx.adobe.com/support/experience-manager/6-2.html
+
 ## Trick
 - Dummy data: https://www.npmjs.com/package/json-server
