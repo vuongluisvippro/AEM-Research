@@ -203,9 +203,17 @@ ${hello.message}
 **Image component**
 >> - The image component is a basic HTL component that displays an image, as shown in this illustration. 
 >> - Spending POM
+>>> - We have two ways for creating a new component by HTL.
+
+## One using GUI(UI)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq22.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq23.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq24.png)
+
+## One using IDE and coding by HTL languages
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq24.png)
+
+
 
 ## Trick
 - Dummy data: https://www.npmjs.com/package/json-server
