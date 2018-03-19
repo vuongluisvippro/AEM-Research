@@ -230,7 +230,17 @@ EXPAND 1: https://helpx.adobe.com/experience-manager/6-2/sites/developing/user-g
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq30.png)
 
 >> - The page component is a HTL component that references the other files (under the partials folder) by using the sly data-sly-include statement. 
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq31.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq32.png)
 
+>> - For example, notice that the footlibs.html file is at the bottom. This represents the page's footer. The following code shows this file. 
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq33.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq34.png)
+
+>> - In this example, notice data-sly-use.clientLib. This is how you reference an **AEM clientlib** in AEM. In this example, it is referencing /libs/granite/sightly/templates/clientlib.html. However, you can reference your own client libs folder tha contains other JavaScript libraries that you want to use in your AEM project.
+>>> - Google search: https://www.google.com.vn/search?q=AEM+clientlib&oq=AEM+clientlib&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8
+>>> - Adobe Support: https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/clientlibs.html
+>>> - 
 
 ## Trick
 - Dummy data: https://www.npmjs.com/package/json-server
