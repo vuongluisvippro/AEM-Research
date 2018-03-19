@@ -233,5 +233,13 @@ EXPAND 1: https://helpx.adobe.com/experience-manager/6-2/sites/developing/user-g
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq31.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq32.png)
 
+>> - For example, notice that the footlibs.html file is at the bottom. This represents the page's footer. The following code shows this file. 
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq33.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq34.png)
+
+>> - 
+
+
+
 ## Trick
 - Dummy data: https://www.npmjs.com/package/json-server
