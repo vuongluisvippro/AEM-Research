@@ -57,4 +57,11 @@ When prompted, specify the following information:
 >>> - apps - content under /apps
 >>> - content - content under /content
 
+> **Notice attach JDK 1.8 to fix error "Setup SDK"
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq5.png)
+
+> **Explore some avaiblible files in folder including**
+>> - TestHelloWorldModel.java
+>>> - is used to perform JUNIT tests
+>> - LoggingFilter
 
