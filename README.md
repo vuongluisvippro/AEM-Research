@@ -13,13 +13,19 @@
 
 # Let's get started with new project
 
-> Install Maven 3.2.1 on Ubuntu by command line:
->> - **sudo apt-get remove maven2**
->> - **sudo add-apt-repository "deb http://ppa.launchpad.net/natecarlson/maven3/ubuntu precise main"**
->> - **sudo apt-get update**
->> - **sudo apt-get install maven3**
->> - **sudo ln -s /usr/share/maven3/bin/mvn /usr/bin/mvn**
->> - **sudo apt-get update**
+> **Install Maven 3.2.1 on Ubuntu by command line:**
+>> - sudo apt-get remove maven2
+>> - sudo add-apt-repository "deb http://ppa.launchpad.net/natecarlson/maven3/ubuntu precise main"
+>> - sudo apt-get update
+>> - sudo apt-get install maven3
+>> - sudo ln -s /usr/share/maven3/bin/mvn /usr/bin/mvn
+>> - sudo apt-get update
+
+> **Copy the Maven configuration file named settings.xml from [install location]\apache-maven-3.0.4\conf\ to your user profile**
+>> - Take file settings.xml
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq1.png)
+>> - 
+
 
 > Running it: 
 >> 
