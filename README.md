@@ -104,3 +104,10 @@ When prompted, specify the following information:
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq6.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq7.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq8.png)
+
+> **Understanding the UI Apps content**
+>> - Notice some links:
+>>> - http://localhost:4502/crx/de
+>>> - http://localhost:4502/welcome
+>>> - http://localhost:4502/project
+>>> - http://localhost:4502/system/console/bundles
