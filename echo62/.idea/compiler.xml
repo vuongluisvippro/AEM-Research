@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="echo62.core" />
+        <module name="echo62.it.launcher" />
+        <module name="echo62.it.tests" />
+        <module name="echo62.ui.apps" />
+        <module name="echo62.ui.content" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="echo62" target="1.6" />
+      <module name="echo62.core" target="1.6" />
+      <module name="echo62.it.launcher" target="1.6" />
+      <module name="echo62.it.tests" target="1.6" />
+      <module name="echo62.ui.apps" target="1.6" />
+      <module name="echo62.ui.content" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
