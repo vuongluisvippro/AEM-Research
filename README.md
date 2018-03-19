@@ -24,10 +24,10 @@
 > **Copy the Maven configuration file named settings.xml from [install location]\apache-maven-3.0.4\conf\ to your user profile**
 >> - Take file settings.xml
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq1.png)
->> - 
+>> - Find hidden folder (.m2) from local computer and paster file settings.xml [DONE]
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq2.png)
 
-
-> Running it: 
+> **Running it:** 
 >> 
 
 
