@@ -240,7 +240,11 @@ EXPAND 1: https://helpx.adobe.com/experience-manager/6-2/sites/developing/user-g
 >> - In this example, notice data-sly-use.clientLib. This is how you reference an **AEM clientlib** in AEM. In this example, it is referencing /libs/granite/sightly/templates/clientlib.html. However, you can reference your own client libs folder tha contains other JavaScript libraries that you want to use in your AEM project.
 >>> - Google search: https://www.google.com.vn/search?q=AEM+clientlib&oq=AEM+clientlib&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8
 >>> - Adobe Support: https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/clientlibs.html
->>> - 
+
+## -> LEVEL1 -> tab_movie_componment to practice with link
+For more information: https://helpx.adobe.com/experience-manager/using/movie.html
+
+
 
 ## Trick
 - Dummy data: https://www.npmjs.com/package/json-server
