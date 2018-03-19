@@ -15,12 +15,12 @@
  |  limitations under the License.
 -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>AEM62App</groupId>
         <artifactId>echo62</artifactId>
-        <version>1.0</version>
+        <version>1.0-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>echo62.core</artifactId>
@@ -67,7 +67,7 @@
                         <artifactId>maven-sling-plugin</artifactId>
                         <configuration>
                             <!-- Note that this requires /apps/AEM62App/install to exist!!          -->
-                            <!--    This is typically the case when ui.apps is deployed first       -->
+                            <!--    This is typically the case when ui.apps is deployed first                -->
                             <!--    Otherwise, create /apps/AEM62App/install manually (CRXDE|Lite)  -->
                             <slingUrlSuffix>/apps/AEM62App/install/</slingUrlSuffix>
                             <failOnError>true</failOnError>
@@ -80,16 +80,12 @@
     <dependencies>
         <!-- OSGi Dependencies -->
         <dependency>
-            <groupId>com.adobe.aem</groupId>
-            <artifactId>uber-jar</artifactId>
-            <classifier>obfuscated-apis</classifier>
+            <groupId>javax.inject</groupId>
+            <artifactId>javax.inject</artifactId>
+            <version>1</version>
+            <scope>provided</scope>
         </dependency>
-
-        <dependency>
-            <groupId>org.apache.geronimo.specs</groupId>
-            <artifactId>geronimo-atinject_1.0_spec</artifactId>
-        </dependency>
-
+        <!-- OSGi Dependencies -->
         <dependency>
             <groupId>org.apache.felix</groupId>
             <artifactId>org.apache.felix.scr</artifactId>
@@ -143,5 +139,19 @@
             <groupId>junit-addons</groupId>
             <artifactId>junit-addons</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>org.apache.jackrabbit</groupId>
+            <artifactId>jackrabbit-core</artifactId>
+            <version>2.4.3</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.jackrabbit</groupId>
+            <artifactId>jackrabbit-jcr-commons</artifactId>
+            <version>2.4.3</version>
+        </dependency>
+
+
     </dependencies>
 </project>

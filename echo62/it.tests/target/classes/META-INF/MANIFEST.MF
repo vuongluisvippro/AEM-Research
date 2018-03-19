@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1521442595755
+Bnd-LastModified: 1521448888992
 Build-Jdk: 1.8.0_151
 Built-By: lorence
 Bundle-Description: Bundles for Integration Tests for AEM62App

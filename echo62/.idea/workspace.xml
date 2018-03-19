@@ -2,12 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcb9fda6-1393-4a6d-9426-171233e77b9d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_adobe_aem_uber_jar_obfuscated_apis_6_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_atinject_1_0_spec_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__concurrent_concurrent_1_3_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derby_10_5_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_api_2_4_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_core_2_4_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_jcr_commons_2_4_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_spi_2_4_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_spi_commons_2_4_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_3_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tika_tika_core_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_4.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_adobe_aem_uber_jar_obfuscated_apis_6_2_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_atinject_1_0_spec_1_0.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/core/echo62.core.iml" afterPath="$PROJECT_DIR$/core/echo62.core.iml" />
       <change beforePath="$PROJECT_DIR$/core/pom.xml" afterPath="$PROJECT_DIR$/core/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/core/target/classes/META-INF/MANIFEST.MF" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/OSGI-INF/metatype/com.aem.community.core.schedulers.SimpleScheduledTask.properties" afterPath="$PROJECT_DIR$/core/target/classes/OSGI-INF/metatype/com.aem.community.core.schedulers.SimpleScheduledTask.properties" />
+      <change beforePath="$PROJECT_DIR$/core/target/echo62.core-1.0.jar" afterPath="$PROJECT_DIR$/core/target/echo62.core-1.0.jar" />
+      <change beforePath="$PROJECT_DIR$/core/target/surefire-reports/TEST-com.aem.community.core.models.TestHelloWorldModel.xml" afterPath="$PROJECT_DIR$/core/target/surefire-reports/TEST-com.aem.community.core.models.TestHelloWorldModel.xml" />
+      <change beforePath="$PROJECT_DIR$/core/target/surefire-reports/com.aem.community.core.models.TestHelloWorldModel.txt" afterPath="$PROJECT_DIR$/core/target/surefire-reports/com.aem.community.core.models.TestHelloWorldModel.txt" />
+      <change beforePath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/echo62.core-1.0.jar" afterPath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/echo62.core-1.0.jar" />
+      <change beforePath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/echo62.it.tests-1.0.jar" afterPath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/echo62.it.tests-1.0.jar" />
+      <change beforePath="$PROJECT_DIR$/it.tests/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/it.tests/target/classes/META-INF/MANIFEST.MF" />
+      <change beforePath="$PROJECT_DIR$/it.tests/target/echo62.it.tests-1.0.jar" afterPath="$PROJECT_DIR$/it.tests/target/echo62.it.tests-1.0.jar" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/target/echo62.ui.apps-1.0.zip" afterPath="$PROJECT_DIR$/ui.apps/target/echo62.ui.apps-1.0.zip" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/ui.apps/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/target/vault-work/META-INF/vault/properties.xml" afterPath="$PROJECT_DIR$/ui.apps/target/vault-work/META-INF/vault/properties.xml" />
+      <change beforePath="$PROJECT_DIR$/ui.content/target/echo62.ui.content-1.0.zip" afterPath="$PROJECT_DIR$/ui.content/target/echo62.ui.content-1.0.zip" />
+      <change beforePath="$PROJECT_DIR$/ui.content/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/ui.content/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/ui.content/target/vault-work/META-INF/vault/properties.xml" afterPath="$PROJECT_DIR$/ui.content/target/vault-work/META-INF/vault/properties.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/ui.content/target/" />
     <ignored path="$PROJECT_DIR$/it.launcher/target/" />
@@ -27,8 +56,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="510" column="10" lean-forward="true" selection-start-line="510" selection-start-column="10" selection-end-line="510" selection-end-column="10" />
+            <state relative-caret-position="729">
+              <caret line="502" column="0" lean-forward="false" selection-start-line="502" selection-start-column="0" selection-end-line="502" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -37,8 +66,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="90" selection-end-column="21" />
+            <state relative-caret-position="290">
+              <caret line="79" column="18" lean-forward="true" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -50,6 +79,8 @@
     <findStrings>
       <find>&lt;dependency&gt;</find>
       <find>obfuscated-apis</find>
+      <find>Bnd</find>
+      <find>geronimo-atinject_1.0_spec</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -73,6 +104,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="65" />
@@ -112,6 +150,72 @@
               <item name="echo62" type="b2602c69:ProjectViewProjectNode" />
               <item name="echo62" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo62" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echo62" type="462c0819:PsiDirectoryNode" />
+              <item name="it.launcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo62" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echo62" type="462c0819:PsiDirectoryNode" />
+              <item name="it.launcher" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo62" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echo62" type="462c0819:PsiDirectoryNode" />
+              <item name="it.launcher" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo62" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echo62" type="462c0819:PsiDirectoryNode" />
+              <item name="it.launcher" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo62" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echo62" type="462c0819:PsiDirectoryNode" />
+              <item name="it.launcher" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="launcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo62" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echo62" type="462c0819:PsiDirectoryNode" />
+              <item name="it.tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo62" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echo62" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo62" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echo62" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.apps" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo62" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echo62" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.apps" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo62" type="b2602c69:ProjectViewProjectNode" />
+              <item name="echo62" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.apps" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="echo62" type="b2602c69:ProjectViewProjectNode" />
@@ -284,7 +388,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8599000" />
+    <option name="totallyTimeSpent" value="15170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -429,6 +533,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="35" column="60" lean-forward="false" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -436,6 +543,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="36" column="36" lean-forward="false" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -461,21 +571,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="510" column="10" lean-forward="true" selection-start-line="510" selection-start-column="10" selection-end-line="510" selection-end-column="10" />
+        <state relative-caret-position="729">
+          <caret line="502" column="0" lean-forward="false" selection-start-line="502" selection-start-column="0" selection-end-line="502" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="90" selection-end-column="21" />
+        <state relative-caret-position="290">
+          <caret line="79" column="18" lean-forward="true" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
           <folding />
         </state>
       </provider>
