@@ -117,6 +117,14 @@ When prompted, specify the following information:
 >> - Follow structure below
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq9.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq10.png)
+>> - Refer application below 
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq11.png)
+>> - The follownig list describes these files: 
+>>> - A - default components that you can use in your project. You can also modify these components to meet your business requirements. 
+>>> - B - files that create page content, inlcuding footers, top navigation, and so on. For example, you can find footer content in this file: /apps/AEM62App/components/structure/page/partials/footlibs.html. 
+>>> - C - configuration information for the OSGi service. 
+>>> - D - default i18n files 
+>>> - E - defines two templates: page content and page home. 
 
 ## Trick
 - Dummy data: https://www.npmjs.com/package/json-server
