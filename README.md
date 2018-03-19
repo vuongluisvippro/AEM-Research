@@ -208,9 +208,11 @@ ${hello.message}
 ## One using GUI(UI)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq22.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq23.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq24.png)
 
 ## One using IDE and coding by HTL languages
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq24.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq25.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq26.png)
 
 
 
