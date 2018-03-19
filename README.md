@@ -214,7 +214,8 @@ ${hello.message}
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq25.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq26.png)
 
-
+## We need to find solution to sync between IDE and CRX website browser
+SOLUTION 1: https://helpx.adobe.com/experience-manager/using/creating-aem-project-using-intellij.html
 
 ## Trick
 - Dummy data: https://www.npmjs.com/package/json-server
