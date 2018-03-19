@@ -67,7 +67,7 @@
                         <artifactId>maven-sling-plugin</artifactId>
                         <configuration>
                             <!-- Note that this requires /apps/AEM62App/install to exist!!          -->
-                            <!--    This is typically the case when ui.apps is deployed first                -->
+                            <!--    This is typically the case when ui.apps is deployed first       -->
                             <!--    Otherwise, create /apps/AEM62App/install manually (CRXDE|Lite)  -->
                             <slingUrlSuffix>/apps/AEM62App/install/</slingUrlSuffix>
                             <failOnError>true</failOnError>
