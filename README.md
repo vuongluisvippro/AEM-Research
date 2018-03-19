@@ -46,5 +46,15 @@ When prompted, specify the following information:
 - cssId - AEM62CSS
 - packageGroup -AEM62App 
 - siteName - AEM62App 
+> **Open folder project "echo2" by Eclipse or IJ**
+ ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq4.png)
+ 
+> **Notice about structure of modules in website**
+>> - After you import the project into Eclipse, notice each module is a separate Eclipse project: 
+>>> - core - where Java files that are used in OSGi services and sling servlets are located
+>>> - launcher - where additional Java files are located
+>>> - tests - Java files for tests like JUNIT tests
+>>> - apps - content under /apps
+>>> - content - content under /content
 
 
