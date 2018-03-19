@@ -230,7 +230,8 @@ EXPAND 1: https://helpx.adobe.com/experience-manager/6-2/sites/developing/user-g
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq30.png)
 
 >> - The page component is a HTL component that references the other files (under the partials folder) by using the sly data-sly-include statement. 
-
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq31.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq32.png)
 
 ## Trick
 - Dummy data: https://www.npmjs.com/package/json-server
