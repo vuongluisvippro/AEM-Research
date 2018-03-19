@@ -111,3 +111,12 @@ When prompted, specify the following information:
 >>> - http://localhost:4502/welcome
 >>> - http://localhost:4502/project
 >>> - http://localhost:4502/system/console/bundles
+>> - 
+
+> **Understanding the UI Apps content**
+>> - Follow structure below
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq9.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq10.png)
+
+## Trick
+- Dummy data: https://www.npmjs.com/package/json-server
