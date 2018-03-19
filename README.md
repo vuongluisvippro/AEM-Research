@@ -244,7 +244,17 @@ EXPAND 1: https://helpx.adobe.com/experience-manager/6-2/sites/developing/user-g
 ## -> LEVEL1 -> tab_movie_componment to practice with link
 For more information: https://helpx.adobe.com/experience-manager/using/movie.html
 
+> **Default ClientLibs for AEM62App**
+>> - The Archetype 10 project create a default clientlib location for your AEM project. This clientlibs folder is located at the following location:
+>> - **/etc/designs/AEM62App**
+>> - If you need to add additional CSS or JS files to your project, you can add them there. WHen you package up your project, include this folder as well.
 
+>> - To see an example of a JQuery lib being added to this clientlibs folder for an AEM project, see this article: 
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq35.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/level1/cq36.png)
+
+## -> LEVEL1 -> htl_headline to ptractice with link
+For more information: https://helpx.adobe.com/experience-manager/using/aem_headline.html
 
 ## Trick
 - Dummy data: https://www.npmjs.com/package/json-server
