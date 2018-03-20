@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myHTL62.iml" filepath="$PROJECT_DIR$/myHTL62.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/myHTL62.core.iml" filepath="$PROJECT_DIR$/core/myHTL62.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.apps/myHTL62.ui.apps.iml" filepath="$PROJECT_DIR$/ui.apps/myHTL62.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.content/myHTL62.ui.content.iml" filepath="$PROJECT_DIR$/ui.content/myHTL62.ui.content.iml" />
+    </modules>
+  </component>
+</project>

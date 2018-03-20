@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.day.cq.wcm:cq-wcm-taglib:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/day/cq/wcm/cq-wcm-taglib/unknown/cq-wcm-taglib-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/day/cq/wcm/cq-wcm-taglib/unknown/cq-wcm-taglib-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/day/cq/wcm/cq-wcm-taglib/unknown/cq-wcm-taglib-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

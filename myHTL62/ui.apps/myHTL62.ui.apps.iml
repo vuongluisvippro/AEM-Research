@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/content/jcr_root" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/content/META-INF" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="myHTL62.core" />
+    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.scr:2.0.14" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.scr.annotations:1.9.12" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: biz.aQute:bndlib:2.0.0.20130123-133441" level="project" />
+    <orderEntry type="library" name="Maven: com.adobe.aem:aem-api:unknown" level="project" />
+    <orderEntry type="library" name="Maven: javax.jcr:jcr:unknown" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet:servlet-api:unknown" level="project" />
+    <orderEntry type="library" name="Maven: com.day.cq.wcm:cq-wcm-taglib:unknown" level="project" />
+  </component>
+</module>
