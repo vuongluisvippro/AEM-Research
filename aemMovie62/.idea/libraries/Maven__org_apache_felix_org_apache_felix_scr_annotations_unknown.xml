@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.felix:org.apache.felix.scr.annotations:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.scr.annotations/unknown/org.apache.felix.scr.annotations-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.scr.annotations/unknown/org.apache.felix.scr.annotations-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.scr.annotations/unknown/org.apache.felix.scr.annotations-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

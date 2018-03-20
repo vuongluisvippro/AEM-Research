@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: junit-addons:junit-addons:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/junit-addons/junit-addons/unknown/junit-addons-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/junit-addons/junit-addons/unknown/junit-addons-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/junit-addons/junit-addons/unknown/junit-addons-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
