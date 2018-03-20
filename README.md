@@ -37,3 +37,6 @@ For more information: https://helpx.adobe.com/experience-manager/using/movie.htm
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq13.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq14.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq15.png)
+
+# ANALYSIS ABOUT COMPONENT MOVIE
+> **An AEM package that contain the HTL movie component** 
