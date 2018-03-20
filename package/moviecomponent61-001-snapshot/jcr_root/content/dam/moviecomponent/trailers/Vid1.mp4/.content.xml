@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="f6371919-303a-476d-84cb-22b2f692550c">
+    <jcr:content
+        dam:assetID="f6371919-303a-476d-84cb-22b2f692550c"
+        dam:relativePath="moviecomponent/trailers/Vid1.mp4"
+        jcr:lastModified="{Date}2017-11-02T12:24:26.908-04:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dc:format="video/mp4"
+            dc:modified="{Date}2017-11-02T09:56:48.418-04:00"
+            jcr:lastModified="{Date}2017-11-02T09:56:48.417-04:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>
