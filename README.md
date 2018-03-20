@@ -62,3 +62,21 @@ For more information: https://helpx.adobe.com/experience-manager/using/movie.htm
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq17.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq18.png)
 
+>> **Movie Details tab**
+>>> - The Movie Details tab lets an author enter a video that represents a movie trailor. The video is typically located in the AEM DAM. The following list describes the values that an AEM author enters in the dialog: 
+>>>> - Trailer Video URL - a JCR path that references a video that represents the movie trailor 
+>>>> - Movie Name - the movie name
+>>>> - Release Date - the release date
+>>>> - Director -the director name
+>>>> - Movie Length - the length  of the movie
+>>>> - Production House - the company that produced the movie
+>>>> - Language - the language of the movie
+>>>> - Special Note - describes any additional information about the movie
+>>> - The following illustration shows this dialog tab. 
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq19.png)
+
+>> **The Experience  tab**
+>>> - The Experience tab lets an author enter review information related to the movie. The following illustration shows this dialog. 
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq20.png)
+
+# Install the AEM Movie Component package
