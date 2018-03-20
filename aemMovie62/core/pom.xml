@@ -79,10 +79,13 @@
     </profiles>
     <dependencies>
         <!-- OSGi Dependencies -->
+        <!-- https://mvnrepository.com/artifact/org.apache.felix/org.apache.felix.scr -->
         <dependency>
             <groupId>org.apache.felix</groupId>
             <artifactId>org.apache.felix.scr</artifactId>
+            <version>2.0.14</version>
         </dependency>
+
         <dependency>
             <groupId>org.apache.felix</groupId>
             <artifactId>org.apache.felix.scr.annotations</artifactId>
