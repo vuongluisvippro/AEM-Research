@@ -39,4 +39,15 @@
 
 > **INITIALIZE AGAIN**
 > **Follow this link** https://helpx.adobe.com/experience-manager/using/first-arch10.html
+>> - Configure these attributes below:
+>>> - groupId: aemMovie62
+>>> - version: 1.0-SNAPSHOT: : 1.0
+- package: : com.moviecomponent.moviecomponent.core.service
+- appsFolderName: aemMovie62
+- artifactName: aemMovie62
+- componentGroupName: aemMovie62
+- contentFolderName: aemMovie62
+- cssId: aemMovie62
+- packageGroup: aemMovie62
+- siteName: aemMovie62
 
