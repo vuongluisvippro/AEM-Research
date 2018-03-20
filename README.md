@@ -196,4 +196,9 @@
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq21.png)
 
 >>> - Click Acitivate 
-
+# Fix error
+> **Go to this website: https://mvnrepository.com/**
+>> - Search keyword: For example  **org.apache.felix:org.apache.felix.scr:jar**
+>> - Go to detail services: https://mvnrepository.com/artifact/org.apache.felix/org.apache.felix.scr
+>> - Go to detail each version(pick newest version) https://mvnrepository.com/artifact/org.apache.felix/org.apache.felix.scr/2.0.14
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq22.png)
