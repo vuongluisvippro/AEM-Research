@@ -33,3 +33,7 @@ For more information: https://helpx.adobe.com/experience-manager/using/movie.htm
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq10.png)
 >>> - That is **HTL movie component**
 
+>> - Observe structure of new package or new component
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq13.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq14.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq15.png)
