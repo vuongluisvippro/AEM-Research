@@ -55,4 +55,4 @@
 > **Open project with IJ**
 >> - Using Ij to open aemMovie62 [ AEM Movie 62]
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq5.png)
-
+>> - Re-install again and observe movie component appear on website. (JUST ONE WAY)
