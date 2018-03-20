@@ -37,7 +37,5 @@
 >> This class also exposes a method named getFiles that returns an ArrayList instance that contains a list of path locations. Each value represents a path to a digial asset that is displayed in the Upcoming Movies tab of the HTL component. (See the illustration shown at the start of this article.)
 >> - ollowing Java code represents the MovieService class. 
 
-> **STOP HERE**
-For more information here: https://helpx.adobe.com/experience-manager/using/movie.html
-Replaced solution here: https://www.youtube.com/channel/UCxmsi20QSThrmd3nYxAL4NA/videos
-Move to tab_title_component
+> **INITIALIZE AGAIN**
+
