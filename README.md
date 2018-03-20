@@ -38,4 +38,5 @@
 >> - ollowing Java code represents the MovieService class. 
 
 > **INITIALIZE AGAIN**
+> **Follow this link** https://helpx.adobe.com/experience-manager/using/first-arch10.html
 
