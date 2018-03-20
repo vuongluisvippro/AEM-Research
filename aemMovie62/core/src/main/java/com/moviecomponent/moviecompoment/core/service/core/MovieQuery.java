@@ -5,7 +5,9 @@ import com.day.cq.search.Query;
 import com.day.cq.search.QueryBuilder;
 import com.day.cq.search.result.Hit;
 import com.day.cq.search.result.SearchResult;
-import jdk.nashorn.internal.ir.annotations.Reference;
+import org.apache.felix.scr.annotations.Component;
+import org.apache.felix.scr.annotations.Reference;
+import org.apache.felix.scr.annotations.Service;
 import org.apache.sling.api.resource.ResourceResolver;
 import org.apache.sling.api.resource.ResourceResolverFactory;
 import org.slf4j.Logger;
@@ -17,7 +19,13 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+//Sling Imports
+//QUeryBuilder APIs
+
+@Component
+@Service
 public class MovieQuery implements MovieInterface {
+
     Logger logger = LoggerFactory.getLogger(MovieQuery.class);
 
     private Session session;
@@ -72,7 +80,11 @@ public class MovieQuery implements MovieInterface {
                 hyperLinks.add(path);
 
             }
+
+
             // close the session
+
+
         } catch (Exception e) {
             this.logger.info("Something went wrong with session .. {}", e);
         } finally {
@@ -81,4 +93,5 @@ public class MovieQuery implements MovieInterface {
         }
 
     }
+
 }

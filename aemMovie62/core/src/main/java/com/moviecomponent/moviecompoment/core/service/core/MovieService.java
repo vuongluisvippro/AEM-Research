@@ -1,13 +1,13 @@
 package com.moviecomponent.moviecompoment.core.service.core;
 
-import com.adobe.cq.sightly.WCMUse;
+import com.adobe.cq.sightly.WCMUsePojo;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class MovieService extends WCMUse {
+public class MovieService extends WCMUsePojo {
     Logger logger = LoggerFactory.getLogger(MovieService.class);
     protected int numberOfMovies;
     protected String path;
@@ -20,7 +20,6 @@ public class MovieService extends WCMUse {
 
         this.numberOfMovies = Integer.valueOf(getProperties().get("maxMovies", ""));
         this.path = getProperties().get("moviesPath", "");
-
         service = getSlingScriptHelper().getService(MovieInterface.class);
     }
 
@@ -36,5 +35,4 @@ public class MovieService extends WCMUse {
             return this.file;
         }
     }
-
 }
