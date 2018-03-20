@@ -22,8 +22,12 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.scr:2.0.14" level="project" />
-    <orderEntry type="library" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.adobe.aem:uber-jar:obfuscated-apis:6.2.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.geronimo.specs:geronimo-atinject_1.0_spec:1.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.jackrabbit:jackrabbit-api:2.10.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.day.commons.osgi.wrapper:com.day.commons.osgi.wrapper.commons-lang2:2.5-0001" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-lang:commons-lang:2.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.scr:unknown" level="project" />
     <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.scr.annotations:unknown" level="project" />
     <orderEntry type="library" name="Maven: biz.aQute:bndlib:unknown" level="project" />
     <orderEntry type="library" name="Maven: org.osgi:org.osgi.core:unknown" level="project" />
