@@ -26,3 +26,5 @@ For more information: https://helpx.adobe.com/experience-manager/using/movie.htm
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq9.png)
 >>> - **design**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq10.png)
+>>> - That is **HTL movie component**
+
