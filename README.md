@@ -16,6 +16,11 @@ For more information: https://helpx.adobe.com/experience-manager/using/movie.htm
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq4.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq5.png)
 
+>> - Install package successfully
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq10.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq11.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq12.png)
+
 >> - Explore file package **moviecomponent61-001-snapshot.zip**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq6.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq7.png)
