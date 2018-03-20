@@ -48,4 +48,10 @@
 >>> - movies-path - specifies the path where the digital assets are located for the Upcoming Movies tab. This node is a granite/ui/components/foundation/form/pathbrowser. 
 >>> - number - specifies the number of assets to display. ThIs node is a granite/ui/components/foundation/form/textfield. 
 
-> **fsd**
+> **Analysis Node**
+>> - **/apps/moviecomponent/components/content/tab-component/cq:dialog/content/items/random-movie/items**
+>> - This node has two child nodes: 
+>>> - movies-path - specifies the path where the digital assets are located for the Upcoming Movies tab. This node is a granite/ui/components/foundation/form/pathbrowser. 
+>>> - number - specifies the number of assets to display. ThIs node is a granite/ui/components/foundation/form/textfield. 
+
+### For more information: https://helpx.adobe.com/experience-manager/using/htl_movie62.html
