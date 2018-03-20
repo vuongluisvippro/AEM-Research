@@ -18,3 +18,9 @@
 > **Delete all packages other than com.moviecomponent.moviecomponent.core.service. Next make sure to delete all generated JAVA files**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_1/cq1.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_1/cq2.png)
+
+> **Make sure that the only Java files in this package are these ones:**
+>> - Constant - defines constant variables used in this AEM service
+>> - MovieInterface - defines an operation named getUpcomingMovies that returns a list of upcoming movies
+>> - MovieService - defines implementation application logic
+>> - MovieQuery- this class uses the AEM QueryBuilder API to query the AEM DAM
