@@ -53,5 +53,6 @@
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq4.png)
 
 > **Open project with IJ**
+>> - Using Ij to open aemMovie62 [ AEM Movie 62]
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq5.png)
 
