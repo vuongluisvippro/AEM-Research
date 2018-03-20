@@ -13,3 +13,5 @@
 >>> - Click Active. Your new bundle should now be listed with the status Active.
 >>> - If the status is not Active, check the CQ error.log for exceptions.
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_3/cq2.png)
+
+> **Movie component dialog**
