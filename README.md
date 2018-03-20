@@ -39,3 +39,4 @@
 
 > **STOP HERE**
 For more information here: https://helpx.adobe.com/experience-manager/using/movie.html
+Replaced solution here: https://www.youtube.com/channel/UCxmsi20QSThrmd3nYxAL4NA/videos
