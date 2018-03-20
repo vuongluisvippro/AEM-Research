@@ -55,3 +55,4 @@
 >>> - number - specifies the number of assets to display. ThIs node is a granite/ui/components/foundation/form/textfield. 
 
 ### For more information: https://helpx.adobe.com/experience-manager/using/htl_movie62.html
+### For more video: https://www.youtube.com/watch?v=NPjZGYGTAP8
