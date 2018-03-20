@@ -50,8 +50,8 @@
 - cssId: aemMovie62
 - packageGroup: aemMovie62
 - siteName: aemMovie62
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_1/cq4.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq4.png)
 
 > **Open project with IJ**
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_1/cq5.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq5.png)
 
