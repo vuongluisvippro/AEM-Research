@@ -1,6 +1,0 @@
-com/aem/commuity/core/servlets/SimpleServlet.class
-com/aem/commuity/core/schedulers/SimpleScheduledTask.class
-com/aem/commuity/core/filters/LoggingFilter.class
-com/aem/commuity/core/listeners/SimpleResourceListener.class
-com/aem/commuity/core/package-info.class
-com/aem/commuity/core/models/HelloWorldModel.class

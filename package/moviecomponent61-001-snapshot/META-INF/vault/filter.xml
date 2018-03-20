@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<workspaceFilter version="1.0">
-    <filter root="/etc/designs/moviecomponent"/>
-    <filter root="/apps/moviecomponent"/>
-    <filter root="/content/moviecomponent"/>
-    <filter root="/content/dam/moviecomponent"/>
-</workspaceFilter>
