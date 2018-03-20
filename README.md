@@ -92,3 +92,98 @@
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq11.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq12.png)
 
+>> - Adjust file pom.xml in core folder: 
+
+      <dependencies>
+        <!-- OSGi Dependencies -->
+             
+        <dependency>
+            <groupId>com.adobe.aem</groupId>
+            <artifactId>uber-jar</artifactId>
+            <classifier>obfuscated-apis</classifier>
+        </dependency>
+  
+        <dependency>
+            <groupId>org.apache.geronimo.specs</groupId>
+            <artifactId>geronimo-atinject_1.0_spec</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.jackrabbit</groupId>
+            <artifactId>jackrabbit-api</artifactId>
+            <version>2.10.0</version>
+            <scope>provided</scope>
+         </dependency>
+         <dependency>
+             <groupId>com.day.commons.osgi.wrapper</groupId>
+             <artifactId>com.day.commons.osgi.wrapper.commons-lang2</artifactId>
+             <version>2.5-0001</version>
+             <scope>provided</scope>
+         </dependency>
+         <dependency>
+            <groupId>org.apache.felix</groupId>
+            <artifactId>org.apache.felix.scr</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.felix</groupId>
+            <artifactId>org.apache.felix.scr.annotations</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>biz.aQute</groupId>
+            <artifactId>bndlib</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.osgi</groupId>
+            <artifactId>org.osgi.core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.osgi</groupId>
+            <artifactId>org.osgi.compendium</artifactId>
+        </dependency>
+        <!-- Other Dependencies -->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>javax.jcr</groupId>
+            <artifactId>jcr</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.adobe.aem</groupId>
+            <artifactId>aem-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.sling</groupId>
+            <artifactId>org.apache.sling.models.api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-all</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>junit-addons</groupId>
+            <artifactId>junit-addons</artifactId>
+        </dependency>
+    </dependencies>
+    
+>> - Follow step: Override these old files.
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq13.png)
+
+
+>> - Remove Ui.test, Ui.lanncher and somethings here
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq14.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq15.png)
+
+>> - Result achieve
+>>> - Run **mvn clean install** or **mvn -PautoInstallPackage install**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq16.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq17.png)
+
