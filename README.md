@@ -15,3 +15,12 @@
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_3/cq2.png)
 
 > **Movie component dialog**
+>> - Navigate **/apps/moviecomponent/components/content/tab-component/dialog** with CRX mode
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_3/cq3.png)
+
+> **PathField**
+>> - For example: /apps/moviecomponent/components/content/tab-component/dialog/items/movie-details/items/video
+>> - This node contain a child node named video of type granite/ui/components/foundation/form/pathbrowser. This node is a pathbrowser that lets an author select the JCR path to where the video for the movie trailor is located. This pathbrowser is shown in the following illustration.  
+>> - Open **/apps/moviecomponent/components/content/tab-component/tab-component.html
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_3/cq4.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_3/cq5.png)
