@@ -40,3 +40,25 @@ For more information: https://helpx.adobe.com/experience-manager/using/movie.htm
 
 # ANALYSIS ABOUT COMPONENT MOVIE
 > **An AEM package that contain the HTL movie component** 
+>> - You can develop a custom Adobe Experience Manager (AEM) HTL tab-based component that lets your web site visitors engage with your site by performing these tasks:
+>> - Assume we have five features for component movie
+>>> - view videos
+>>> - view images
+>>> - provide feedback 
+>>> - rate the content
+>>> - learn about information
+
+>> - You can develop the tab-based component by using HTL and AEM digital assets, such as videos and images. The following illustration shows the tab-based movie component developed in this community article.
+>>> - The AEM HTL movie contains these tabs: 
+>>>> - Movies
+>>>> - Movie Experience
+>>>> - Reviews
+>>>> - Get in Touch
+>>>> - Upcoming
+
+>> - **Tab configurations**
+>>> - The titles displayed in the component's tabs are all configurable by using a dialog. That is, an author can set them, as shown in this illustration. 
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq16.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq17.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component/cq18.png)
+
