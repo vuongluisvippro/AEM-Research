@@ -202,3 +202,18 @@
 >> - Go to detail services: https://mvnrepository.com/artifact/org.apache.felix/org.apache.felix.scr
 >> - Go to detail each version(pick newest version) https://mvnrepository.com/artifact/org.apache.felix/org.apache.felix.scr/2.0.14
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq22.png)
+
+> **Track error from command line**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq23.png)
+>> - We have 13 errors
+>> - Fix with 
+
+    <!-- https://mvnrepository.com/artifact/org.apache.felix/org.apache.felix.scr -->
+    <dependency>
+        <groupId>org.apache.felix</groupId>
+        <artifactId>org.apache.felix.scr</artifactId>
+        <version>2.0.14</version>
+    </dependency>
+    
+>> - Fix bugs ==> Backup file pom.xml
+
