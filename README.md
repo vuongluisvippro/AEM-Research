@@ -77,7 +77,7 @@ When prompted, specify the following information:
 >> - HelloWorldModel.java
 >>> - Using Sling Model annotations such as @Model. For more information: https://sling.apache.org/documentation/bundles/models.html
 
->> - SimpleScheduledTask.java
+>> - SimpleScheduledTask.java 
 >>> - get executed regularly
 >>> - It also demonstrates how property values can be set. For more information: https://sling.apache.org/documentation/bundles/scheduler-service-commons-scheduler.html
 
