@@ -187,3 +187,7 @@
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq16.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq17.png)
 
+>>> - Go to this link: http://localhost:4502/system/console/bundles
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq18.png)
+>>> - Click install/update
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq19.png)
