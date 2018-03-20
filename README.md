@@ -56,3 +56,16 @@
 >> - Using Ij to open aemMovie62 [ AEM Movie 62]
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq5.png)
 >> - Re-install again and observe movie component appear on website. (JUST ONE WAY)
+
+> **Delete these files not involves inside package com.moviecomponent.moviecomponent.core.service.core**
+>> - Delete these files
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq6.png)
+>> - Come back to this link: https://helpx.adobe.com/experience-manager/using/htl_movie62.html
+>> - Write code
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq7.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq8.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq9.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_2/cq10.png)
+
+>> - Adjust pom.xml
+
