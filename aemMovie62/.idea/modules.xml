@@ -4,10 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/aemMovie62.iml" filepath="$PROJECT_DIR$/aemMovie62.iml" />
       <module fileurl="file://$PROJECT_DIR$/core/aemMovie62.core.iml" filepath="$PROJECT_DIR$/core/aemMovie62.core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/it.launcher/aemMovie62.it.launcher.iml" filepath="$PROJECT_DIR$/it.launcher/aemMovie62.it.launcher.iml" />
-      <module fileurl="file://$PROJECT_DIR$/it.tests/aemMovie62.it.tests.iml" filepath="$PROJECT_DIR$/it.tests/aemMovie62.it.tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ui.apps/aemMovie62.ui.apps.iml" filepath="$PROJECT_DIR$/ui.apps/aemMovie62.ui.apps.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ui.content/aemMovie62.ui.content.iml" filepath="$PROJECT_DIR$/ui.content/aemMovie62.ui.content.iml" />
     </modules>
   </component>
 </project>

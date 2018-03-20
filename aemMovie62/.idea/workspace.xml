@@ -2,16 +2,133 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed1374b0-b8cb-4cbd-81d0-9f8df2d84fbd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/Constant.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/MovieInterface.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/MovieService.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_day_cq_wcm_cq_wcm_taglib_5_7_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_cache_4_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_osgi_4_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_osgi_4_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_commons_json_2_0_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_junit_core_1_0_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_junit_remote_1_0_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_junit_scriptable_1_0_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_launchpad_base_war_webapp_2_3_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_launchpad_standalone_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_servlets_post_2_3_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_testing_tools_1_0_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_5_11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/filters/LoggingFilter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/listeners/SimpleResourceListener.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/models/HelloWorldModel.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/schedulers/SimpleScheduledTask.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/servlets/SimpleServlet.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/core/src/test/java/com/moviecomponent/moviecompoment/core/service/core/models/TestHelloWorldModel.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/it.launcher/aemMovie62.it.launcher.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/it.launcher/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/it.launcher/src/main/java/com/moviecomponent/moviecompoment/core/service/it/launcher/package-info.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/it.launcher/src/test/java/com/moviecomponent/moviecompoment/core/service/it/launcher/SlingServerSideTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/it.launcher/src/test/java/com/moviecomponent/moviecompoment/core/service/it/launcher/SlingServerSideTestsBase.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/it.tests/aemMovie62.it.tests.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/it.tests/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/it.tests/src/main/java/com/moviecomponent/moviecompoment/core/service/it/tests/HelloWorldModelServerSideTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/aemMovie62.ui.apps.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/META-INF/vault/config.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/META-INF/vault/filter.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/META-INF/vault/settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/colctrl/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/colctrl/clientlib/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/colctrl/clientlib/css.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/colctrl/clientlib/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/helloworld/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/helloworld/_cq_dialog/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/helloworld/dialog.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/helloworld/helloworld.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/image/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/image/_cq_editConfig.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/text/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/textimage/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/textimage/clientlib/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/textimage/clientlib/css.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/textimage/clientlib/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/content/title/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/logo/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/page/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/page/clientlib/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/page/clientlib/css.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/page/clientlib/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/page/page.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/page/partials/footlibs.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/page/partials/head.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/page/partials/head.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/page/partials/headlibs.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/page/partials/main.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/page/partials/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/topnav/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/topnav/clientlib/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/topnav/clientlib/css.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/topnav/clientlib/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/topnav/topnav.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/components/structure/topnav/topnav.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/config.author/com.day.cq.wcm.mobile.core.impl.MobileEmulatorProvider-aemMovie62.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/config/org.apache.sling.commons.log.LogManager.factory.config-aemMovie62.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/i18n/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/i18n/fr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/templates/page-content/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/templates/page-home/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/tests/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/tests/SampleTests.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aemMovie62/tests/js.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/sling/servlet/errorhandler/404.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/sling/servlet/errorhandler/ResponseStatus.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/_jcr_content/page/logo/image" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/_jcr_content/page/logo/image.dir/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/clientlib-all/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/clientlib-all/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/clientlib-all/css.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/clientlib-all/js.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/clientlib-site/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/clientlib-site/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/clientlib-site/css.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/clientlib-site/js.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/clientlib-site/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/clientlib-site/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/aemMovie62/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/aemMovie62.ui.content.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/META-INF/vault/config.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/META-INF/vault/filter.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/META-INF/vault/settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/aemMovie62/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/aemMovie62/_jcr_content/image/file" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/aemMovie62/_jcr_content/image/file.dir/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/aemMovie62/_jcr_content/image/file.dir/_jcr_content/_dam_thumbnails/_dam_thumbnail_319.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/aemMovie62/en/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/aemMovie62/en/_jcr_content/image/file" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/aemMovie62/en/_jcr_content/image/file.dir/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/aemMovie62/en/_jcr_content/image/file.dir/_jcr_content/_dam_thumbnails/_dam_thumbnail_319.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/aemMovie62/fr/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/aemMovie62/fr/_jcr_content/image/file" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/aemMovie62/fr/_jcr_content/image/file.dir/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/aemMovie62/fr/_jcr_content/image/file.dir/_jcr_content/_dam_thumbnails/_dam_thumbnail_319.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/dam/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/dam/aemMovie62/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/dam/aemMovie62/_jcr_content/folderThumbnail" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/dam/aemMovie62/asset.jpg/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/dam/aemMovie62/asset.jpg/_jcr_content/renditions/cq5dam.thumbnail.140.100.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/dam/aemMovie62/asset.jpg/_jcr_content/renditions/cq5dam.thumbnail.319.319.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/dam/aemMovie62/asset.jpg/_jcr_content/renditions/cq5dam.thumbnail.48.48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/dam/aemMovie62/asset.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/dam/aemMovie62/asset.jpg/_jcr_content/renditions/original" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.content/src/main/content/jcr_root/content/dam/aemMovie62/asset.jpg/_jcr_content/renditions/original.dir/.content.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/ui.content/target/" />
     <ignored path="$PROJECT_DIR$/core/target/" />
@@ -32,7 +149,7 @@
         <entry file="file://$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/MovieService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="630">
-              <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+              <caret line="35" column="29" lean-forward="false" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,15 +157,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MovieQuery.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MovieQuery.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/MovieQuery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="419">
+              <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1497#1513#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="599">
+              <caret line="99" column="56" lean-forward="false" selection-start-line="99" selection-start-column="56" selection-end-line="99" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,6 +214,7 @@
         <option value="$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/MovieInterface.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/MovieService.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/MovieQuery.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -117,41 +255,6 @@
             <path>
               <item name="aemMovie62" type="b2602c69:ProjectViewProjectNode" />
               <item name="aemMovie62" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aemMovie62" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aemMovie62" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aemMovie62" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aemMovie62" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aemMovie62" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aemMovie62" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aemMovie62" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aemMovie62" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aemMovie62" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aemMovie62" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,7 +382,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2335000" />
+    <option name="totallyTimeSpent" value="2699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -343,7 +446,7 @@
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/MovieService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+          <caret line="35" column="29" lean-forward="false" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -352,12 +455,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/MovieQuery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="419">
+          <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1497#1513#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aemMovie62.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="99" column="56" lean-forward="false" selection-start-line="99" selection-start-column="56" selection-end-line="99" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/MovieInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/MovieService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="29" lean-forward="false" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/moviecomponent/moviecompoment/core/service/core/MovieQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1497#1513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>

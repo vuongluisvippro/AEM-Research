@@ -7,10 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="aemMovie62.core" />
-        <module name="aemMovie62.it.launcher" />
-        <module name="aemMovie62.it.tests" />
-        <module name="aemMovie62.ui.apps" />
-        <module name="aemMovie62.ui.content" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
