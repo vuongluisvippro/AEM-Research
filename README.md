@@ -15,4 +15,5 @@
 [INFO] Final Memory: 15M/210M
 >>> - Open it with IJ Editor.
 
-> ****
+> **Delete all packages other than com.moviecomponent.moviecomponent.core.service. Next make sure to delete all generated JAVA files**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/master/cq1.png)
