@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2326560e-f21a-4361-ab93-7c8efc9e33c0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__biz_aQute_bndlib_1_43_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_jcr_jcr_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_felix_org_apache_felix_scr_annotations_1_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_api_2_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_jcr_api_2_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_compendium_4_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_core_4_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_5_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bundle/movie-bundle.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bundle/src/main/java/com/moviecomponent/moviecomponent/core/service/Constant.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/movie-content.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/movie.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bundle/src/main/java/com/moviecomponent/moviecomponent/core/service/MovieInterface.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bundle/src/main/java/com/moviecomponent/moviecomponent/core/service/MovieService.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/bundle/target/" />
     <ignored path="$PROJECT_DIR$/content/target/" />
@@ -33,11 +18,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Constant.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Constant.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bundle/src/main/java/com/moviecomponent/moviecomponent/core/service/Constant.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bundle/src/main/java/com/moviecomponent/moviecomponent/core/service/MovieInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bundle/src/main/java/com/moviecomponent/moviecomponent/core/service/MovieService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -64,6 +69,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/bundle/src/main/java/com/moviecomponent/moviecomponent/core/service/Constant.java" />
+        <option value="$PROJECT_DIR$/bundle/src/main/java/com/moviecomponent/moviecomponent/core/service/MovieInterface.java" />
+        <option value="$PROJECT_DIR$/bundle/src/main/java/com/moviecomponent/moviecomponent/core/service/MovieService.java" />
       </list>
     </option>
   </component>
@@ -74,7 +81,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
+    <option name="x" value="1985" />
     <option name="y" value="-4" />
     <option name="width" value="1855" />
     <option name="height" value="1084" />
@@ -262,15 +269,15 @@
       <option name="presentableId" value="Default" />
       <updated>1521516545753</updated>
       <workItem from="1521516546994" duration="317000" />
-      <workItem from="1521516941457" duration="541000" />
+      <workItem from="1521516941457" duration="1177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="858000" />
+    <option name="totallyTimeSpent" value="1494000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -349,6 +356,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bundle/src/main/java/com/moviecomponent/moviecomponent/core/service/MovieInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bundle/src/main/java/com/moviecomponent/moviecomponent/core/service/MovieService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="34" />
           <folding />
         </state>
       </provider>
