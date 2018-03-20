@@ -50,4 +50,4 @@
 - cssId: aemMovie62
 - packageGroup: aemMovie62
 - siteName: aemMovie62
-
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_movie_component_1/cq4.png)
