@@ -69,3 +69,31 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 >>>> - The command -PautoInstallPackage automatically deploys the OSGi bundle to AEM.
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq1.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq2.png)
+
+> **Create the HTL Front End Component**
+>> - When you use the Maven Archetype 10 archetype to create an AEM project, a default front end project is created, as shown in the following illustration.
+>> - We need to sync CRX with Intellij
+
+> **AEM+Filevault+Intellij integration**
+>> - Setup the vault tool
+>>> - The next task to perform is to setup the vault tool so Intellij can use it to synchronize between AEM JCR and IntelliJ. For example, later in this development article, a template and page component is created using CRXDE lite. You can synchronize the code using the vault tool from Intellij, which is shown later.
+>>> - From within IntelliJ, click File, Settings. Select External tools and click the + icon.
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq3.png)
+>>> - Install package: **vault-cli-3.1.6**
+>>> - Take package: **filevault.zip**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq4.png)
+>>> - Unzip file and put in this location
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq5.png)
+>>> Configure code below **check out**
+>>> - Name: whatever you want (For example: "check out")
+>>> - Group: whatever you want (For example: "vault" )
+>>> - Description: Whatever you want
+>>> - Program: **/opt/vault-cli-3.1.16/bin/vlt**
+>>> - Parameters: **co http://localhost:4502/crx --force --credentials admin:admin**
+>>> - Working Directory: Where you put your project (For example: **/home/lorence/Desktop/AEM-Research/myHTL62**)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq6.png)
+>>> - Similarity **check in**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq7.png)
+
+
+
