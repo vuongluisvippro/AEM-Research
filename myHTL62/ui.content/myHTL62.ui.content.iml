@@ -16,6 +16,6 @@
     <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.scr.annotations:1.9.12" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
     <orderEntry type="library" name="Maven: biz.aQute:bndlib:2.0.0.20130123-133441" level="project" />
-    <orderEntry type="library" name="Maven: com.adobe.aem:aem-api:unknown" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.adobe.aem:aem-api:6.0.0.1" level="project" />
   </component>
 </module>
