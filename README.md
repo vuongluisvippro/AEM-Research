@@ -115,6 +115,6 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 >>> - Running website
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq12.png)
 
-# STATUS 3:
+# GET STARTED WITH HTL Component
+>>> - @Link: https://helpx.adobe.com/experience-manager/htl/using/getting-started.html
 
->>> - 
