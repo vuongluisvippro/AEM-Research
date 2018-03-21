@@ -95,5 +95,24 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 >>> - Similarity **check in**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq7.png)
 
+>> **Write code**
+>>> - Location: **/apps/myHTL62/components/content/helloworld/helloworld.html**
+
+# STATUS 1:
+
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq8.png)
+>>> - Checkout and we have result below
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq9.png)
+>>> - View form reality
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq10.png)
+>>> - This is reason of issue  **HelloWorldModel not to show**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq11.png)
+
+# STATUS 2:
+
+>>> - Check in with vault on each exactly file **helloworld.xml**
+>>> - Type command line **mvn -PautoInstallPackage install**
+
+>>> - 
 
 
