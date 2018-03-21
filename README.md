@@ -68,4 +68,4 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 >>>> - The OSGi component can be found in the following folder: C:\AdobeCQ\myHTL62\core\target. The file name of the OSGi component is myHTL62.core-1.0-SNAPSHOT.jar.
 >>>> - The command -PautoInstallPackage automatically deploys the OSGi bundle to AEM.
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq1.png)
-
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq2.png)
