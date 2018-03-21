@@ -110,9 +110,9 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 
 # STATUS 2:
 
->>> - Check in with vault on each exactly file **helloworld.xml**
+>>> - **Check in** with vault on each exactly file **helloworld.xml**
 >>> - Type command line **mvn -PautoInstallPackage install**
-
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq12.png)
 >>> - 
 
 
