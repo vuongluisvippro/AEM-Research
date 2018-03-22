@@ -257,3 +257,49 @@ items/column/items/description.
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq36.png)
 
 ## Create the Classic Dialog
+### Perform these tasks to create the AEM Classic UI dialog for the helloworld component:
+- 1. Select /apps/myHTL/components/content/helloworld, right click and select Create, Create Dialog.
+- 2 . In the Title field, enter herohtl.
+- 3. Click Ok.
+- 4. Delete all nodes under /apps/myHTL62/components/content/helloworld/dialog/.
+- 5. Click on the following node: /apps/myHTL62/components/content/helloworld/dialog.
+- 6. Right click and select Create, Create Node. Enter the following values:
+> - Name: items
+> - Type: cq:WidgetCollection
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq37.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq38.png)
+
+- 7. Select the /apps/myHTL62/components/content/helloworld/dialog/items node.
+- 8. Right click and select Create, Create Node. Enter the following values:
+> - Name: tab3
+> - Type: cq:Widget
+- 9. Click on the following node: apps/myHTL62/components/content/helloworld/dialog/items/tab3.
+- 10. Add the following properties to the tab3 node.
+> - title (String) - Text Details
+> - xtype (String) -  panel
+
+- 11. Click on the following node: apps/myHTL62/components/content/helloworld/dialog/items/tab3.
+- 12. Right click and select Create, Create Node. Enter the following values:
+> - Name: items
+> - Type: cq:WidgetCollections.
+- 13. Click on the following node:  apps/myHTL62/components/content/helloworld/dialog/items/tab3/items.
+- 14. Right click and select Create, Create Node. Enter the following values:
+> - Name: headingText
+> - Type: cq:Widget
+- 15. Add the following properties to the headingText node.
+> - fieldLabel (String) -  Heading Text
+> - hideLabel (Boolean) - true
+> - name (String) - ./jcr:Heading
+> - xtype (String) - textfield
+
+- 16. Click on the following node: apps/myHTL62/components/content/helloworld/dialog/items/tab3/items.
+- 17. Right click and select Create, Create Node. Enter the following values:
+> - Name: description
+> - Type: cq:Widget
+- 18. Add the following properties to the description node.
+> - fieldLabel (String) - Description
+> - name (String) - ./jcr:description
+> - xtype (String) - textarea
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq39.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq40.png)
+
