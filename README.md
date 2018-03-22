@@ -141,4 +141,16 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
         
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq19.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq20.png)
->> - 
+
+>> - Distinguish between **Touch UI Dialog** and **Classic UI Dialog**
+>>> - **Touch UI Dialog**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq21.png)
+>>> - **Classic UI Dialog**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq22.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq23.png)
+
+> - **Create the helloworld dialog**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq24.png)
+>> - Create the Touch UI Dialog
+
+
