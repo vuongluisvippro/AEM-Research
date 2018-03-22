@@ -122,3 +122,4 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 # Dowload Intellivault
 > **Link** https://plugins.jetbrains.com/plugin/7328-intellivault
 > ****
+
