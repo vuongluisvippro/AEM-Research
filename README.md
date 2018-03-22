@@ -130,4 +130,15 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 
 # Add HTL code
 > **Jumping into apps/.../myHTL62/components/helloworld/helloworld.html**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq18.png)
+>> - Write code
 
+        <p>This is your AEM HTML Template Language component:</p>
+        <div data-sly-use.heroTextObject="com.foo.service.core.HeroTextComponent" data-sly-test="${heroTextObject}">
+               <h1>${heroTextObject.heroTextBean.headingText}</h1>
+               <p>${heroTextObject.heroTextBean.description}</p>    
+        </div>
+        
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq19.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq20.png)
+>> - 
