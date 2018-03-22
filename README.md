@@ -151,6 +151,9 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 
 > - **Create the helloworld dialog**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq24.png)
->> - Create the Touch UI Dialog
 
+>> - Create the Touch UI Dialog
+>>> - Perform these tasks to create the AEM Touch UI dialog for the helloworld component:
+- 1. Select **/apps/myHTL62/components/content/helloworld**.
+- 
 
