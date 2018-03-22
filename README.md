@@ -152,7 +152,7 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 > - **Create the helloworld dialog**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq24.png)
 
->> - Create the Touch UI Dialog
+## Create the Touch UI Dialog
 >>> - Perform these tasks to create the AEM Touch UI dialog for the helloworld component:
 - 1. Select **/apps/myHTL62/components/content/helloworld**.
 - 2. Right click and select Create, Create Node.
@@ -171,4 +171,89 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 > - sling:resourceType (Stgring) - cq/gui/components/authoring/dialog
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq27.png)
 
+- 5. Click on the following node: /apps/myHTL62/components/content/helloworld/cq:dialog.
+- 6. Right click and select Create, Create Node. Enter the following values:
+> - Name: content
+> - Type: nt:unstructured
+- 7. Add the following property to the content node.
+sling:resourceType (String) - **granite**/ui/components/foundation/container
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq28.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq29.png)
 
+- 9. Right click and select Create, Create Node. Enter the following values:
+> - Name: layout
+> - Type: nt:unstructured
+- 10. Add the following properties to the layout node.
+> - sling:resourceType (String) - granite/ui/components/foundation/layouts/tabs
+> - type (String) -nav
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq30.png)
+
+- 11. Click on the following node: /apps/myHTL62/components/content/helloworld/cq:dialog/content.
+- 12. Right click and select Create, Create Node. Enter the following values:
+> - Name: items
+> - Type: nt:unstructured
+
+- 13. Click on the following node: /apps/myHTL62/components/content/helloworld/cq:dialog/content/items.
+- 14. Right click and select Create, Create Node. Enter the following values:
+> - Name: herotext
+> - Type: nt:unstructured
+- 15. Add the following properties to the herotext node (this node represents the tab).
+> - jcr:title (String) - Hero Text Properties
+> - sling:resourceType (String) - granite/ui/components/foundation/section
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq31.png)
+
+- 16. Click on the following node: /apps/myHTL62/components/content/helloworld/cq:dialog/content/items/herotext.
+- 17. Right click and select Create, Create Node. Enter the following values:
+> - Name: layout
+> - Type: nt:unstructured
+- 18. Add the following property to the layout node.
+> - sling:resourceType (String) - granite/ui/components/foundation/layouts/fixedcolumns
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq32.png)
+
+- 19. Click on the following node: /apps/myHTL62/components/content/helloworld/cq:dialog/content/items/herotext.
+- 20. Right click and select Create, Create Node. Enter the following values:
+> - Name: items
+> - Type: nt:unstructured
+
+- 21. Click on the following node: /apps/myHTL62/components/content/helloworld/cq:dialog/content/items/herotext/items.
+- 22. Right click and select Create, Create Node. Enter the following values:
+> - Name: columns
+> - Type: nt:unstructured
+
+- 23. Click on the following node: /apps/myHTL62/components/content/helloworld/cq:dialog/content/items/herotext/items/column.
+- 24. Add the following property to the columns node.
+> -  sling:resourceType (String) - granite/ui/components/foundation/container
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq33.png)
+
+- 25. Click on the following node: /apps/myHTL62/components/content/helloworld/cq:dialog/content/items/herotext/items/column.
+- 26. Right click and select Create, Create Node. Enter the following values:
+> - Name: items
+> - Type: nt:unstructured
+
+- 27. Click on the following node: /apps/myHTL62/components/content/helloworld/cq:dialog/content/items/herotext/items/column/items.
+- 28. Right click and select Create, Create Node. Enter the following values:
+> - Name: headingText
+> - Type: nt:unstructured
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq34.png)
+
+- 29. Click on the following node: /apps/myHTL62/components/content/helloworld/cq:dialog/content/items/herotext/items/column/items/headingText.
+- 30. Add the following properties to the headingText node (this node represents the Heading Text input control on the dialog. See the illustration at the start of this article.)
+> - fieldLabel (String) - Heading Text
+> - name (String) - ./jcr:Heading
+> - sling:resourceType (String) - granite/ui/components/foundation/form/textfield
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq35.png)
+
+- 31. Click on the following node: /apps/myHTL62/components/content/helloworld/cq:dialog/content/items/herotext/items/column/items.
+- 32. Right click and select Create, Create Node. Enter the following values:
+> - Name: description
+> - Type: nt:unstructured
+
+- 33. Click on the following node: /apps/myHTL62/components/content/helloworld/cq:dialog/content/items/herotext/
+items/column/items/description.
+- 34. Add the following property to the description node (this node represents the Description input control on the dialog. See the illustration at the start of this article.)
+> - fieldLabel (String) - Description
+> - name (String) - ./jcr:description
+> - sling:resourceType (String) - granite/ui/components/foundation/form/textarea
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq36.png)
+
+## Create the Classic Dialog
