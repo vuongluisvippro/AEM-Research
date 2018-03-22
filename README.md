@@ -157,6 +157,18 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 - 1. Select **/apps/myHTL62/components/content/helloworld**.
 - 2. Right click and select Create, Create Node.
 - 3. Enter the following values:
->> - Name: cq:dialog
->> - Type: nt:unstructured
+> - Name: cq:dialog
+> - Type: nt:unstructured
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq25.png)
+>> - Click SaveALL
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq26.png)
+
+>> - Continue
+
+- 4. Add the following properties to the cq:dialog node.
+> - helppath (String) - en/cq/current/wcm/default_components.html#Carousel
+> - jcr:title (String) - Hero Text
+> - sling:resourceType (Stgring) - cq/gui/components/authoring/dialog
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq27.png)
+
 
