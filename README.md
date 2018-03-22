@@ -81,9 +81,9 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq3.png)
 >>> - Install package: **vault-cli-3.1.6**
 >>> - Take package: **filevault.zip**
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq4.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq4.png)
 >>> - Unzip file and put in this location
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq5.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq5.png)
 >>> Configure code below **check out**
 >>> - Name: whatever you want (For example: "check out")
 >>> - Group: whatever you want (For example: "vault" )
@@ -91,29 +91,29 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 >>> - Program: **/opt/vault-cli-3.1.16/bin/vlt**
 >>> - Parameters: **co http://localhost:4502/crx --force --credentials admin:admin**
 >>> - Working Directory: Where you put your project (For example: **/home/lorence/Desktop/AEM-Research/myHTL62**)
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq6.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq6.png)
 >>> - Similarity **check in**
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq7.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq7.png)
 
 >> **Write code**
 >>> - Location: **/apps/myHTL62/components/content/helloworld/helloworld.html**
 
 # STATUS 1:
 
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq8.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq8.png)
 >>> - Checkout and we have result below
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq9.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq9.png)
 >>> - View form reality
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq10.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq10.png)
 >>> - This is reason of issue  **HelloWorldModel not to show**
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq11.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl-2/cq11.png)
 
 # STATUS 2:
 
 >>> - **Check in** with vault on each exactly file **helloworld.xml**
 >>> - Type command line **mvn -PautoInstallPackage install**
 >>> - Running website
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq12.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq12.png)
 
 # GET STARTED WITH HTL Component
 >>> - @Link: https://helpx.adobe.com/experience-manager/htl/using/getting-started.html
