@@ -155,5 +155,8 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 >> - Create the Touch UI Dialog
 >>> - Perform these tasks to create the AEM Touch UI dialog for the helloworld component:
 - 1. Select **/apps/myHTL62/components/content/helloworld**.
-- 
+- 2. Right click and select Create, Create Node.
+- 3. Enter the following values:
+-- Name: cq:dialog
+-- Type: nt:unstructured
 
