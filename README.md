@@ -121,5 +121,11 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 
 # Dowload Intellivault
 > **Link** https://plugins.jetbrains.com/plugin/7328-intellivault
-> ****
+> **Configuration**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq13.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq14.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq15.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq16.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq17.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq18.png)
 
