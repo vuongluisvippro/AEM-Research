@@ -78,7 +78,7 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 >> - Setup the vault tool
 >>> - The next task to perform is to setup the vault tool so Intellij can use it to synchronize between AEM JCR and IntelliJ. For example, later in this development article, a template and page component is created using CRXDE lite. You can synchronize the code using the vault tool from Intellij, which is shown later.
 >>> - From within IntelliJ, click File, Settings. Select External tools and click the + icon.
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl/cq3.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq3.png)
 >>> - Install package: **vault-cli-3.1.6**
 >>> - Take package: **filevault.zip**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq4.png)
