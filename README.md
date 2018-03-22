@@ -127,5 +127,4 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/first_htl_WCM
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq15.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq16.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq17.png)
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq18.png)
 
