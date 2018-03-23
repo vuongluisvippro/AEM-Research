@@ -60,3 +60,9 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
 > - Observe **We.Train Content page**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq18.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq19.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq20.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq21.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq22.png)
+
+> - **Decomposing a URL in AEM**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq23.png)
