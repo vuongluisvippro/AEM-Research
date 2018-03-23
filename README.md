@@ -66,3 +66,6 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
 
 > - **Decomposing a URL in AEM**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq23.png)
+
+> - **Apache Sling resource resolution with example**
+>> - Notice 
