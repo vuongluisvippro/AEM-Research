@@ -57,4 +57,6 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq16.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq17.png)
 
-> - ****
+> - Observe **We.Train Content page**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq18.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq19.png)
