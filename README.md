@@ -22,5 +22,22 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
 > - **Create a Project structure in AEM**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq4.png)
 
-
 > - **Create Page rendering component in AEM**
+>> - Collection of scripts
+>> - Modular, reusable unit.
+>> - What does reusable unit contain?
+>>> - Text
+>>> - image
+>>> - header
+>>> - breadcrump
+>>> - video
+>> - You can use Adobe Experience XD to simulator about structure of website.
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq5.png)
+>> - Follow step by step to creat 'component'
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq6.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq7.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq8.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq9.png)
+
+
+> - ****
