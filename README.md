@@ -45,4 +45,5 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq10.png)
 >> - Navigate **/apps/training/components/structure/contentpage/contentpage.html**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq11.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq12.png)
 
