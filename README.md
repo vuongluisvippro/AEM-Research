@@ -303,3 +303,6 @@ items/column/items/description.
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq39.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq40.png)
 
+> **Run command 'mvn clean install'**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq41.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_2/cq42.png)
