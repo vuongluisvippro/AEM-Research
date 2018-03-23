@@ -68,4 +68,12 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq23.png)
 
 > - **Apache Sling resource resolution with example**
->> - Notice 
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq24.png)
+>> - Create file blue.html
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq25.png)
+>> - Double click we-train
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq26.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq27.png)
+
+> **Restrict template use in AEM using allowedPaths and allowedTemplates**
+Continue with 17. Restrict template use in AEM using allowedPaths and allowedTemplates
