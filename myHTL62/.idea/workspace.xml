@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dba08dc3-319e-438d-a46b-907ac3f7af39" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/homepage/blue.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/install/myHTL62.core-1.0-SNAPSHOT.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/template-home-page/.content.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/content/helloworld/helloworld.html" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/content/helloworld/helloworld.html" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/contentpage/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/homepage/.content.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/contentpage/contentpage.html" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/homepage/homepage.html" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/contentpage/contentpage.html.dir/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/homepage/homepage.html.dir/.content.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/config/org.apache.sling.commons.log.LogManager.factory.config-myHTL62.xml" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/config/org.apache.sling.commons.log.LogManager.factory.config-myHTL62.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/page-content/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/page-content/.content.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/page-home/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/page-home/.content.xml" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/page/partials/main.html" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/page/partials/main.html" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/template-home-page/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/template-home-page/.content.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/ui.content/target/" />
     <ignored path="$PROJECT_DIR$/ui.apps/target/" />
@@ -28,28 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="homepage.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/homepage/homepage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blue.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/homepage/blue.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -383,16 +354,15 @@
       <workItem from="1521596484513" duration="4123000" />
       <workItem from="1521693028410" duration="4672000" />
       <workItem from="1521786414049" duration="6958000" />
-      <workItem from="1522029863409" duration="6700000" />
+      <workItem from="1522029863409" duration="7764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23252000" />
+    <option name="totallyTimeSpent" value="24316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -406,7 +376,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IntelliVault" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -583,18 +553,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/homepage/homepage.html">
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/homepage/blue.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/homepage/blue.html">
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/homepage/homepage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>

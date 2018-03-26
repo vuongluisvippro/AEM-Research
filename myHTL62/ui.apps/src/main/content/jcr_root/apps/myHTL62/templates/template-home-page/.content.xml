@@ -3,7 +3,7 @@
     jcr:description="All of page templates of myHTML62"
     jcr:primaryType="cq:Template"
     jcr:title="Template Home Page"
-    allowedPaths="[/content/myHTL62]"
+    allowedPaths="[/content(/.*)?]"
     ranking="{Long}1">
     <jcr:content
         jcr:primaryType="cq:PageContent"
