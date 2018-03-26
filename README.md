@@ -89,7 +89,14 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
 >> - Go to detail **contentpage[structure]**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq31.png)
 >>> - Change contentpage.jsp into contentpage.html
+>>> - Save All please
+>>> - Push CRX
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq32.png)
 
+>>> - Adjust content in contentpage.html
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq33.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq34.png)
+>>> - **mvn clean install**
 
 
 
