@@ -71,7 +71,11 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq11.png)
 
 > **allowedTemplates**
+>> - We want to take **Template Child Page** from **myHTL62** to **aemMovie62** by allowedTemplates
+>> - Go to **/content/aemMovie62**
+>> - 
 
+https://www.youtube.com/watch?v=sZ66n4IHnVs&list=PL2rn7ZBYpBjtPyy5-pEBxwwIowcIoVv40&index=17
 
 
 
