@@ -75,3 +75,24 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq26.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq27.png)
 > - **CREATE PAGE REDERING COMPONENT IN AEM**
+>> - Let's synchronize between CRX and AEM
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq28.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq29.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq30.png)
+>> - Notice here: When you create component. Normally, we use libs are supported in AEM
+   
+    **wcm/foundation/components/page**
+    
+>> - How to access libs follow this path:
+>>> - Just access this path **/libs/wcm/foundation/components/page**
+
+>> - Go to detail **contentpage[structure]**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq31.png)
+>>> - Change contentpage.jsp into contentpage.html
+
+
+
+
+
+
+
