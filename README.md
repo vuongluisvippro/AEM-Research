@@ -74,6 +74,4 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
 >> - Double click we-train
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq26.png)
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq27.png)
-
-> **Restrict template use in AEM using allowedPaths and allowedTemplates**
-Continue with 17. Restrict template use in AEM using allowedPaths and allowedTemplates
+> - **CREATE PAGE REDERING COMPONENT IN AEM**
