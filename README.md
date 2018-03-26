@@ -50,6 +50,18 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
     </div>
 
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq4.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq5.png)
+
+> **allowedPaths**
+>> - For example: myHTL62 just only have one template: **template-home-page**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq6.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq7.png)
+
+>> - We create a new Template for **myHTL62**
+>>> - Case 1: **http://localhost:4502/sites.html/content** + **/content(/.*)?**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq8.png)
+>>> - Case 2: **/content/myHTL62/.+**
+
 
 
 
