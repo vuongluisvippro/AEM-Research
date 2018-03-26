@@ -101,7 +101,8 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
 > - **CREATE A TEMPLATE IN AEM**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq35.png)
 >> - **mvn clean install**
->> - 
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_3/cq36.png)
+
 
 
 
