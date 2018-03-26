@@ -60,7 +60,18 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
 >> - We create a new Template for **myHTL62**
 >>> - Case 1: **http://localhost:4502/sites.html/content** + **/content(/.*)?**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq8.png)
->>> - Case 2: **/content/myHTL62/.+**
+
+>>> - Case 2: **http://localhost:4502/sites.html/content/aemMovie62** + **/content(/.*)?**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq9.png)
+
+>>> - Case 3 **http://localhost:4502/mnt/overlay/wcm/core/content/sites/createpagewizard.html/content/myHTL62** + **/content/myHTL62(/.*)?**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq10.png)
+
+>>> - Case 4 **http://localhost:4502/mnt/overlay/wcm/core/content/sites/createpagewizard.html/content** + **/content/myHTL62(/.*)?**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq11.png)
+
+> **allowedTemplates**
+
 
 
 
