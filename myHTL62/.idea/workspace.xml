@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dba08dc3-319e-438d-a46b-907ac3f7af39" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/page/partials/main.html" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/page/partials/main.html" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/template-home-page/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/template-home-page/.content.xml" />
-    </list>
+    <list default="true" id="dba08dc3-319e-438d-a46b-907ac3f7af39" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/ui.content/target/" />
     <ignored path="$PROJECT_DIR$/ui.apps/target/" />
     <ignored path="$PROJECT_DIR$/core/target/" />
@@ -354,12 +350,12 @@
       <workItem from="1521596484513" duration="4123000" />
       <workItem from="1521693028410" duration="4672000" />
       <workItem from="1521786414049" duration="6958000" />
-      <workItem from="1522029863409" duration="7764000" />
+      <workItem from="1522029863409" duration="7835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24316000" />
+    <option name="totallyTimeSpent" value="24387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
