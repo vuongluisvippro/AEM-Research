@@ -73,11 +73,28 @@ Follow this link: https://www.youtube.com/channel/UC5LctNk2GMEknreC-ZJO7vQ
 > **allowedTemplates**
 >> - We want to take **Template Child Page** from **myHTL62** to **aemMovie62** by allowedTemplates
 >> - Go to **/content/aemMovie62**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq12.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq13.png)
 
 > **ADDING THUMBNAIL TO PAGE IN AEM**
->> - 
+>> - View propertiese of page
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq14.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq15.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq16.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq17.png)
 
+> **CREATE WEBSITE STRUCTURE IN AEM**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_4/cq18.png)
 
+> **Sightly / HTL language**
+>> - **HTL** stands for **HTML template language** 
+>>> - **Templating Language**
+>>> - **HTL is HTML5**
+>>> - **Alternate of JSP**
+>>> - **Simplied Development**
+>>> - **Security**
+>>> - **Separation of concern**
 
-
-
+       e.g: <p data-sly-use.obj="script.js">${obj.text}
+       
+> **Sightly Syntax with examples**
