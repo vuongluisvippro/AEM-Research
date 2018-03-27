@@ -76,5 +76,51 @@ Follow this link: https://helpx.adobe.com/support/experience-manager/6-3.html
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_5/cq14.png)
 
 > - **Inheritance in AEM**
+>> - Move to this page: **/apps/myHTL62/components/structure/modularizepage**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_5/cq15.png)
+>> - Notice
+
+     wcm/foundation/components/page
+     
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_5/cq16.png)
+
+>> - We you remove **wcm/foundation/components/page** and we didn't open **Open Properties**
+>> - We delete **modularizepage.html** in **/apps/myHTL62/components/structure/modularizepage** and lauch website
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_5/cq17.png)
+
+>> - *EXPLAIN THIS MATTER* **wcm/foundation/components/page** + **/libs/wcm/foundation/components/page/page.html**
+
+     <!--/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       ~ Copyright 2016 Adobe Systems Incorporated
+       ~
+       ~ Licensed under the Apache License, Version 2.0 (the "License");
+       ~ you may not use this file except in compliance with the License.
+       ~ You may obtain a copy of the License at
+       ~
+       ~     http://www.apache.org/licenses/LICENSE-2.0
+       ~
+       ~ Unless required by applicable law or agreed to in writing, software
+       ~ distributed under the License is distributed on an "AS IS" BASIS,
+       ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+       ~ See the License for the specific language governing permissions and
+       ~ limitations under the License.
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/-->
+     <!DOCTYPE HTML>
+     <html>
+         <head data-sly-include="head.html"></head>
+         <body data-sly-use.body="body.js" class="${body.cssClasses}"
+                 data-sly-include="body.html"></body>
+     </html>
+
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_5/cq18.png)
+
+> - **client library in AEM**
+
+
+
+
+
+
+
 
 
