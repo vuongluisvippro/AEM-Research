@@ -13,17 +13,11 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 */-->
-<div class="page__main" data-sly-use.main="main.js">
-    <header class="page__header">
-        <div class="page__logo" data-sly-resource="logo"></div>
-        <nav class="page__topnav" data-sly-resource="topnav"></nav>
-    </header>
+<!--/* Include the site client libraries (loading only the CSS in the header, JS will be loaded in the footer) */-->
+<sly data-sly-use.clientLib="/libs/granite/sightly/templates/clientlib.html" data-sly-call="${clientLib.css @ categories='myHTL62.all'}" data-sly-unwrap/>
 
-    <div class="page__title" data-sly-resource="${'title' @ decorationTagName='div'}"></div>
-    <div class="page__par" data-sly-resource="par"></div>
-	<div>This is my template for HOMEPAGE</div>
+<!--/* Include Adobe Dynamic Tag Management libraries for the header */-->
+<sly data-sly-include="/libs/cq/cloudserviceconfigs/components/servicelibs/servicelibs.jsp" data-sly-unwrap/>
 
-    <footer class="page__footer">
-        <p class="page__copyright">${"&copy; {0} myHTL62 Site. All rights reserved." @ i18n, format=main.year, context='html'}</p>
-    </footer>
-</div>
+<!--/* Initializes the Experience Manager authoring UI */-->
+<sly data-sly-include="/libs/wcm/core/components/init/init.jsp" data-sly-unwrap/>
