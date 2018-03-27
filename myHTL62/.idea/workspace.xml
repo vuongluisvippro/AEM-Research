@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dba08dc3-319e-438d-a46b-907ac3f7af39" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/aboutpage/.content.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/aboutpage/aboutpage.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/aboutpage/clientlib/.content.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/aboutpage/clientlib/css.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/aboutpage/clientlib/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/aboutpage/partials/footlibs.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/aboutpage/partials/head.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/aboutpage/partials/head.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/aboutpage/partials/headlibs.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/aboutpage/partials/main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/aboutpage/partials/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/renderpage/.content.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/renderpage/renderpage.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/renderpage/renderpage.html.dir/.content.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/template-about-page/.content.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/template-render-page/.content.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/template_child-page/.content.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/core/target/classes/META-INF/MANIFEST.MF" />
-      <change beforePath="$PROJECT_DIR$/core/target/myHTL62.core-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/core/target/myHTL62.core-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/homepage/homepage.html" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/homepage/homepage.html" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/page-content/.content.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/page-home/.content.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/myHTL62/components/structure/contentpage/.content.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/myHTL62/components/structure/contentpage/contentpage.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/myHTL62/components/structure/contentpage/contentpage.html.dir/.content.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/myHTL62/components/structure/page/partials/main.html" afterPath="$PROJECT_DIR$/ui.apps/target/classes/apps/myHTL62/components/structure/page/partials/main.html" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/myHTL62/config/org.apache.sling.commons.log.LogManager.factory.config-myHTL62.xml" afterPath="$PROJECT_DIR$/ui.apps/target/classes/apps/myHTL62/config/org.apache.sling.commons.log.LogManager.factory.config-myHTL62.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/myHTL62/templates/page-content/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/target/classes/apps/myHTL62/templates/page-content/.content.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/myHTL62/templates/page-home/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/target/classes/apps/myHTL62/templates/page-home/.content.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/ui.apps/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/myHTL62.ui.apps-1.0-SNAPSHOT.zip" afterPath="$PROJECT_DIR$/ui.apps/target/myHTL62.ui.apps-1.0-SNAPSHOT.zip" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/vault-work/META-INF/vault/properties.xml" afterPath="$PROJECT_DIR$/ui.apps/target/vault-work/META-INF/vault/properties.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.content/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/ui.content/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/ui.content/target/myHTL62.ui.content-1.0-SNAPSHOT.zip" afterPath="$PROJECT_DIR$/ui.content/target/myHTL62.ui.content-1.0-SNAPSHOT.zip" />
-      <change beforePath="$PROJECT_DIR$/ui.content/target/vault-work/META-INF/vault/properties.xml" afterPath="$PROJECT_DIR$/ui.content/target/vault-work/META-INF/vault/properties.xml" />
-    </list>
+    <list default="true" id="dba08dc3-319e-438d-a46b-907ac3f7af39" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/ui.content/target/" />
     <ignored path="$PROJECT_DIR$/ui.apps/target/" />
     <ignored path="$PROJECT_DIR$/core/target/" />
@@ -399,12 +362,12 @@
       <workItem from="1521693028410" duration="4672000" />
       <workItem from="1521786414049" duration="6958000" />
       <workItem from="1522029863409" duration="16417000" />
-      <workItem from="1522115251991" duration="6546000" />
+      <workItem from="1522115251991" duration="7145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39515000" />
+    <option name="totallyTimeSpent" value="40114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
