@@ -113,6 +113,12 @@ Follow this link: https://helpx.adobe.com/support/experience-manager/6-3.html
      </html>
 
 > - **client library in AEM**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_5/cq18.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_5/cq19.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_5/cq20.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/tab_component_htl_5/cq21.png)
+
+> - **Define a design in AEM(client library part 1)**
 
 
 
