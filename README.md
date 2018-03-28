@@ -50,6 +50,7 @@ Follow this link: https://helpx.adobe.com/support/experience-manager/6-3.html
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/htl_java_use_api/cq12.png)
 
 # HTL User Guide
+> - **What is HTL?**
 
 
 
