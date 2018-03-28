@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dba08dc3-319e-438d-a46b-907ac3f7af39" name="Default" comment="" />
+    <list default="true" id="dba08dc3-319e-438d-a46b-907ac3f7af39" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/content/site-topnav/.content.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/content/site-topnav/TopNav.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/content/site-topnav/TopNav.java.dir/.content.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/content/site-topnav/site-topnav.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/content/site-topnav/site-topnav.html.dir/.content.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/modularizepage/.content.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/modularizepage/body.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/modularizepage/customfooterlibs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/modularizepage/customheaderlibs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/modularizepage/footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/modularizepage/header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/templates/template-modularize-page/.content.xml" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/renderpage/renderpage.html" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/renderpage/renderpage.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/ui.content/target/" />
     <ignored path="$PROJECT_DIR$/ui.apps/target/" />
     <ignored path="$PROJECT_DIR$/core/target/" />
@@ -17,12 +31,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="renderpage.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="renderpage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/renderpage/renderpage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="432">
+              <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopNav.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/content/site-topnav/TopNav.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -246,7 +272,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.razorfish.platforms.intellivault.ui.IntelliiVaultSettings" />
-    <property name="SearchEverywhereHistoryKey" value="HeroTextComponent&#9;FILE&#9;file:///home/lorence/Desktop/Lorence/AEM-Research/myHTL62/core/src/main/java/com/foo/service/core/HeroTextComponent.java" />
+    <property name="SearchEverywhereHistoryKey" value="TopNav&#9;PSI&#9;JAVA://apps.training.components.content.site_topnav.TopNav&#10;HeroTextComponent&#9;FILE&#9;file:///home/lorence/Desktop/Lorence/AEM-Research/myHTL62/core/src/main/java/com/foo/service/core/HeroTextComponent.java" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RunDashboard">
@@ -363,12 +389,12 @@
       <workItem from="1521786414049" duration="6958000" />
       <workItem from="1522029863409" duration="16417000" />
       <workItem from="1522115251991" duration="7145000" />
-      <workItem from="1522199889778" duration="1201000" />
+      <workItem from="1522199889778" duration="1822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41315000" />
+    <option name="totallyTimeSpent" value="41936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
@@ -387,6 +413,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IntelliVault" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -398,7 +425,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="IntelliVault" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -555,6 +581,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -562,6 +589,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -588,9 +616,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/structure/renderpage/renderpage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="432">
+          <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/myHTL62/components/content/site-topnav/TopNav.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
