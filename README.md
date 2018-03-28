@@ -59,10 +59,42 @@ Follow this link: https://helpx.adobe.com/support/experience-manager/6-3.html
 
 >>> - HTL Block Statements
 >>>> - data-sly-use analyze into three parts **data** - **sly** - **use**
->>>> - **data**
-![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/htl_java_use_api/cq14.png)
+>>>> - **data** + more information here https://helpx.adobe.com/experience-manager/htl/using/block-statements.html
 
+>> - Upgrade code
 
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Getting Started with HTL</title>
+        </head>
+        <body>
+            <div>
+                <sly data-sly-test="${properties.jcr:title && properties.jcr:description}">
+                    <h1>${properties.jcr:title}</h1>
+                    <p>${properties.jcr:description}</p>
+                </sly>
+            </div>
+        </body>
+        </html>
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Getting Started with HTL</title>
+        </head>
+        <body>
+            <!--/* An HTL Comment */-->
+            <!-- /*  If there are both, a jcr:title and a jcr:decription property defined, 
+        and if none of them are empty: -->
+            <div data-sly-test="${properties.jcr:title || properties.jcr:description}">
+                <h1>${properties.jcr:title}</h1>
+                <p>${properties.jcr:description}</p>
+            </div>
+        </body>
+        </html>
+
+>> - Read more: https://helpx.adobe.com/experience-manager/htl/using/getting-started.html
 
 ### Preferences 
 - @link: https://helpx.adobe.com/experience-manager/htl/using/use-api-javascript.html
