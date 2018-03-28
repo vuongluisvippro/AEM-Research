@@ -41,12 +41,12 @@ Follow this link: https://helpx.adobe.com/support/experience-manager/6-3.html
         </div>
     </div>
 
-    <div data-sly-resource="${'site-topnav' @ resourceType='training/components/content/site-topnav'}"></div>
+    <div data-sly-resource="${'site-topnav' @ resourceType='myHTL62/components/content/site-topnav'}"></div>
 
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/htl_design_aem_2/cq6.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/htl_design_aem_2/cq7.png)
 
-
-
+> - ***STOP HERE!
 
 
 
