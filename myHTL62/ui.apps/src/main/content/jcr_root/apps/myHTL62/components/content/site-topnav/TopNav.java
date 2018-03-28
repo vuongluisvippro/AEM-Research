@@ -1,4 +1,4 @@
-package apps.training.components.content.site_topnav;
+package apps.myHTL62.components.content.site_topnav;
 
 import java.util.*;
 import java.util.Iterator;
