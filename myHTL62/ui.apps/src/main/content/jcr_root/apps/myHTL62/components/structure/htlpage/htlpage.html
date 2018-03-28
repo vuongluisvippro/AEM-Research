@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 <html>
-	<title>HTL JavaScript Use-API</title>
+<head>
+    <title>Getting Started with HTL</title>
+</head>
 <body>
-	<h1>HTL JavaScript Use-API</h1>
-    <h2>currentNode</h2>
-	<p><strong>currentNode: </strong>${currentNode.Name}</p>
-
-
-    <h2>currentNode</h2>
-	<p><strong>currentNode: </strong>${currentNode.Name}</p>
-    
-    <h3>I'm standing in Bracket Project. Hello world. Nice to meet you</h3>
+    <h1 data-sly-test="${properties.jcr:title}">${properties.jcr:title}</h1>
 </body>
 </html>
