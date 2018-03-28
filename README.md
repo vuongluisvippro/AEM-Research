@@ -53,6 +53,15 @@ Follow this link: https://helpx.adobe.com/support/experience-manager/6-3.html
 > - **What is HTL?**
 >> - Fundamental Concepts of HTL
 
+    <h1 data-sly-test="${properties.jcr:title}">${properties.jcr:title}</h1>
+    
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/htl_java_use_api/cq13.png)
+
+>>> - HTL Block Statements
+>>>> - data-sly-use analyze into three parts **data** - **sly** - **use**
+>>>> - **data**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/htl_java_use_api/cq14.png)
+
 
 
 ### Preferences 
