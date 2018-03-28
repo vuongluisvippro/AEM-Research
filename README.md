@@ -51,6 +51,7 @@ Follow this link: https://helpx.adobe.com/support/experience-manager/6-3.html
 
 # HTL User Guide
 > - **What is HTL?**
+>> - Fundamental Concepts of HTL
 
 
 
@@ -60,3 +61,7 @@ Follow this link: https://helpx.adobe.com/support/experience-manager/6-3.html
 - @link: https://helpx.adobe.com/experience-manager/htl/using/dev-tools.html
 - @link: https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/aem-brackets.html
 - @link: http://brackets.io/#
+
+### Preference Bracket
+- @link: https://github.com/adobe/brackets/wiki/Brackets-Shortcuts
+
