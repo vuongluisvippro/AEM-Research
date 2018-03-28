@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dba08dc3-319e-438d-a46b-907ac3f7af39" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="dba08dc3-319e-438d-a46b-907ac3f7af39" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/ui.content/target/" />
     <ignored path="$PROJECT_DIR$/ui.apps/target/" />
     <ignored path="$PROJECT_DIR$/core/target/" />
@@ -98,8 +95,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1984" />
-    <option name="y" value="-1091" />
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
     <option name="width" value="1857" />
     <option name="height" value="1092" />
   </component>
@@ -366,15 +363,15 @@
       <workItem from="1521786414049" duration="6958000" />
       <workItem from="1522029863409" duration="16417000" />
       <workItem from="1522115251991" duration="7145000" />
-      <workItem from="1522199889778" duration="602000" />
+      <workItem from="1522199889778" duration="1201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40716000" />
+    <option name="totallyTimeSpent" value="41315000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1984" y="-1091" width="1857" height="1092" extended-state="6" />
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
