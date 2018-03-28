@@ -4,6 +4,12 @@
     <title>Getting Started with HTL</title>
 </head>
 <body>
-    <h1 data-sly-test="${properties.jcr:title}">${properties.jcr:title}</h1>
+    <!--/* An HTL Comment */-->
+    <!-- /*  If there are both, a jcr:title and a jcr:decription property defined, 
+and if none of them are empty: -->
+    <div data-sly-test="${properties.jcr:title || properties.jcr:description}">
+        <h1>${properties.jcr:title}</h1>
+        <p>${properties.jcr:description}</p>
+    </div>
 </body>
 </html>
