@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Getting Started with HTL</title>
+</head>
+<body>
+    <!--/* An HTL Comment */-->
+    <ul data-sly-list.child="${currentPage.listChildren}"> <li class="${ childList.odd ? 'odd' : 'even'}">${child.title}</li> </ul>
+</body>
+</html>
