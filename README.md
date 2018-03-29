@@ -26,6 +26,11 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/toy_login.htm
 >> - @Link: http://getbootstrap.com/getting-started/#download
 >> - Access this folder **package** to get it.
 
+> - **Create an Experience Manager client library folder**
+1. Right-click /etc/clientlibs then select New, Node.
+2. Make sure that the node type is cq:ClientLibraryFolder and the name of the node is boot-foundation.
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/practice_page_login/cq7.png)
+3. Right click on clientlibs and select Properties. Add the two properties specified here: 
 
         
 ### Preferences 
