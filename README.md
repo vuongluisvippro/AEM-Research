@@ -1,6 +1,6 @@
-# HTL Java Use-API
-Follow this link: https://helpx.adobe.com/support/experience-manager/6-3.html
-> - **Setup Template To Understand**
+# Practice Page
+Follow this link: https://helpx.adobe.com/experience-manager/using/toy_login.html
+> - **Setup Package**
 >> - **template-htl-page**
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/htl_java_use_api/cq1.png)
 
