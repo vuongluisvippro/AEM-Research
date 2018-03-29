@@ -93,8 +93,79 @@ Follow this link: https://helpx.adobe.com/support/experience-manager/6-3.html
             </div>
         </body>
         </html>
+        
+>> - How can we have this attribute **properties.jcr:description**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/htl_java_use_api/cq14.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/htl_java_use_api/cq15.png)
 
->> - Read more: https://helpx.adobe.com/experience-manager/htl/using/getting-started.html
+>> - **HTL Comments**
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/htl_java_use_api/cq16.png)
+
+# Learning HTL (HTL AGAIN 1)
+<> Follow this site: https://github.com/Adobe-Marketing-Cloud/aem-htl-sample-todomvc
+> - **HTL intro part 1**
+>> - **myHTL62/components/structure/sample1**
+>> - Access link: **currentpage.name docs.adobe.com**
+>>> - Google Key: "currentpage.name docs.adobe.com"
+>>> - References: http://blogs.adobe.com/experiencedelivers/experience-management/htl-intro-part-1/
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Getting Started with HTL</title>
+        </head>
+        <body>
+            <!--/* An HTL Comment */-->
+            <div>currentPageName: ${currentPage.name}</div>
+            <div>currentPagePath: ${currentPage.path}</div>
+            <div>currentPageLanguage: ${currentPage.language}</div>
+        </body>
+        </html>
+
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/htl_java_use_api/cq17.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/htl_java_use_api/cq18.png)
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Getting Started with HTL</title>
+        </head>
+        <body>
+            <!--/* An HTL Comment */-->
+            <div data-sly-test="${wcmmode.edit}">Show this only in edit mode to the author: ${wcmmode.edit}</div>
+        </body>
+        </html>
+
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/htl_java_use_api/cq19.png)
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Getting Started with HTL</title>
+        </head>
+        <body>
+            <!--/* An HTL Comment */-->
+            <div data-sly-test.author="${wcmmode.edit || wcmmode.design}">Show this to the author </div> 
+            <div data-sly-test="${!author}"> Not in author mode anymore.. </div>
+        </body>
+        </html>
+
+        <div data-sly-text="${currentPage.title}">Mock page title</div>
+        
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Getting Started with HTL</title>
+        </head>
+        <body>
+            <!--/* An HTL Comment */-->
+            <ul data-sly-list.child="${currentPage.listChildren}"> <li>${child.title}</li> </ul>
+        </body>
+        </html>
+        
+## PENDING HERE
+
+        
 
 ### Preferences 
 - @link: https://helpx.adobe.com/experience-manager/htl/using/use-api-javascript.html
