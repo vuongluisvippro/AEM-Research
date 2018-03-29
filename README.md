@@ -30,7 +30,19 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/toy_login.htm
 1. Right-click /etc/clientlibs then select New, Node.
 2. Make sure that the node type is cq:ClientLibraryFolder and the name of the node is boot-foundation.
 ![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/practice_page_login/cq7.png)
-3. Right click on clientlibs and select Properties. Add the two properties specified here: 
+3. Right click on clientlibs and select Properties. Add the two properties specified here:  **/etc/clientlibs/boot-foundation**
+- dependencies (String[]) - cq.jquery
+- categories (String[]) - summit.boot.foundation
+
+4. On your file system, navigate to the folder where the Bootstrap JS files are located. Upload the bootstrap.min.js file to the clientlib. Also upload the CSS files. (Place the JS file in the JS folder and CSS files in the CS folder). We copy **Bracket** and using **Move** tool.
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/practice_page_login/cq8.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/practice_page_login/cq9.png)
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/practice_page_login/cq10.png)
+
+5. Add a TXT file to the clientlibs folder named js.txt. Add this content to the file.
+![alt text](https://github.com/vuongluisvippro/AEM-Research/blob/practice_page_login/cq11.png)
+
+# Create Login component using HTL
 
         
 ### Preferences 
@@ -42,4 +54,7 @@ Follow this link: https://helpx.adobe.com/experience-manager/using/toy_login.htm
 
 ### Preference Bracket
 - @link: https://github.com/adobe/brackets/wiki/Brackets-Shortcuts
+
+### Continue with link: https://helpx.adobe.com/experience-manager/using/toy_login.html
+### Refer video youtube: 
 
